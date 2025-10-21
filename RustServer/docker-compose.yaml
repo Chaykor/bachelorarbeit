@@ -1,0 +1,18 @@
+services:
+  my-rust-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: RustServer
+    stdin_open: true
+    tty: true
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    ports:
+      - "3000:3000"
+
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"

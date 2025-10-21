@@ -1,0 +1,19 @@
+services:
+  my-java-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: JavaServer
+    stdin_open: true
+    tty: true
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    ports:
+      - "3000:3000"
+
+    # Ressourcenlimits
+#    deploy:
+#      resources:
+#        limits:
+#          cpus: "1.0"
+#          memory: "1512M"

@@ -1,0 +1,444 @@
+{
+  "Ableton": {
+    "LiveSet": {
+      "NextPointeeId": {
+        "_Value": "22445"
+      },
+      "OverwriteProtectionNumber": {
+        "_Value": "3073"
+      },
+      "SignalModulations": "",
+      "MidiFoldIn": {
+        "_Value": "false"
+      },
+      "MidiFoldMode": {
+        "_Value": "-99"
+      },
+      "MultiClipFocusMode": {
+        "_Value": "false"
+      },
+      "MultiClipLoopBarHeight": {
+        "_Value": "0"
+      },
+      "MidiPrelisten": {
+        "_Value": "false"
+      },
+      "LinkedTrackGroups": "",
+      "NoteSpellingPreference": {
+        "_Value": "0"
+      },
+      "AccidentalSpellingPreference": {
+        "_Value": "3"
+      },
+      "PreferFlatRootNote": {
+        "_Value": "false"
+      },
+      "UseWarperLegacyHiQMode": {
+        "_Value": "false"
+      },
+      "VideoWindowRect": {
+        "_Top": "-2147483648",
+        "_Left": "-2147483648",
+        "_Bottom": "-2147483648",
+        "_Right": "-2147483648"
+      },
+      "ShowVideoWindow": {
+        "_Value": "true"
+      },
+      "TuningSystems": "",
+      "TrackHeaderWidth": {
+        "_Value": "93"
+      },
+      "ViewStateMainWindowClipDetailOpen": {
+        "_Value": "true"
+      },
+      "ViewStateMainWindowHiddenOtherDocViewTypeClipDetailOpen": {
+        "_Value": "false"
+      },
+      "ViewStateMainWindowHiddenOtherDocViewTypeDeviceDetailOpen": {
+        "_Value": "true"
+      },
+      "ViewStateMainWindowDeviceDetailOpen": {
+        "_Value": "false"
+      },
+      "ViewStateSecondWindowClipDetailOpen": {
+        "_Value": "false"
+      },
+      "ViewStateSecondWindowDeviceDetailOpen": {
+        "_Value": "true"
+      },
+      "ViewStates": {
+        "MixerInArrangement": {
+          "_Value": "0"
+        },
+        "ArrangerMixerIO": {
+          "_Value": "1"
+        },
+        "ArrangerMixerSends": {
+          "_Value": "1"
+        },
+        "ArrangerMixerReturns": {
+          "_Value": "1"
+        },
+        "ArrangerMixerVolume": {
+          "_Value": "1"
+        },
+        "ArrangerMixerTrackOptions": {
+          "_Value": "0"
+        },
+        "ArrangerMixerCrossFade": {
+          "_Value": "0"
+        },
+        "ArrangerMixerTrackPerformanceImpactMeter": {
+          "_Value": "0"
+        },
+        "MixerInSession": {
+          "_Value": "1"
+        },
+        "SessionIO": {
+          "_Value": "1"
+        },
+        "SessionSends": {
+          "_Value": "1"
+        },
+        "SessionReturns": {
+          "_Value": "1"
+        },
+        "SessionVolume": {
+          "_Value": "1"
+        },
+        "SessionTrackOptions": {
+          "_Value": "0"
+        },
+        "SessionCrossFade": {
+          "_Value": "0"
+        },
+        "SessionTrackPerformanceImpactMeter": {
+          "_Value": "0"
+        },
+        "SessionShowOverView": {
+          "_Value": "0"
+        },
+        "ArrangerIO": {
+          "_Value": "1"
+        },
+        "ArrangerReturns": {
+          "_Value": "1"
+        },
+        "ArrangerVolume": {
+          "_Value": "1"
+        },
+        "ArrangerTrackOptions": {
+          "_Value": "0"
+        },
+        "ArrangerShowOverView": {
+          "_Value": "1"
+        }
+      },
+      "NoteAlgorithms": {
+        "ArpeggiateAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "15",
+                "_Name": "Rate"
+              },
+              {
+                "_Id": "16",
+                "_Name": "Steps"
+              },
+              {
+                "_Id": "17",
+                "_Name": "Distance"
+              },
+              {
+                "_Id": "18",
+                "_Name": "Gate"
+              },
+              {
+                "_Id": "19",
+                "_Name": "Style"
+              }
+            ]
+          },
+          "Rate": {
+            "_Value": "10"
+          },
+          "Steps": {
+            "_Value": "2"
+          },
+          "Distance": {
+            "_Value": "12"
+          },
+          "Gate": {
+            "_Value": "1"
+          },
+          "Style": {
+            "_Value": "0"
+          },
+          "_Id": "0"
+        },
+        "SpanAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "9",
+                "_Name": "Mode"
+              },
+              {
+                "_Id": "10",
+                "_Name": "LengthVariation"
+              },
+              {
+                "_Id": "11",
+                "_Name": "LengthOffset"
+              }
+            ]
+          },
+          "Mode": {
+            "_Value": "1"
+          },
+          "ChordThreshold": {
+            "_Value": "10"
+          },
+          "LengthVariation": {
+            "_Value": "0"
+          },
+          "LengthOffset": {
+            "_Value": "0"
+          },
+          "_Id": "1"
+        },
+        "ConnectAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "12",
+                "_Name": "Tie"
+              },
+              {
+                "_Id": "13",
+                "_Name": "Density"
+              },
+              {
+                "_Id": "14",
+                "_Name": "Spread"
+              },
+              {
+                "_Id": "15",
+                "_Name": "Rate"
+              }
+            ]
+          },
+          "Tie": {
+            "_Value": "0"
+          },
+          "Density": {
+            "_Value": "1"
+          },
+          "Spread": {
+            "_Value": "0"
+          },
+          "Rate": {
+            "_Value": "0"
+          },
+          "_Id": "2"
+        },
+        "OrnamentAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "27",
+                "_Name": "FlamEnabled"
+              },
+              {
+                "_Id": "28",
+                "_Name": "FlamPosition"
+              },
+              {
+                "_Id": "29",
+                "_Name": "FlamVelocity"
+              },
+              {
+                "_Id": "30",
+                "_Name": "GraceNotesEnabled"
+              },
+              {
+                "_Id": "31",
+                "_Name": "GraceNotesChance"
+              },
+              {
+                "_Id": "32",
+                "_Name": "GraceNotesVelocity"
+              },
+              {
+                "_Id": "33",
+                "_Name": "GraceNotesPosition"
+              },
+              {
+                "_Id": "34",
+                "_Name": "GraceNotesAmount"
+              },
+              {
+                "_Id": "35",
+                "_Name": "GraceNotesPitch"
+              }
+            ]
+          },
+          "FlamEnabled": {
+            "_Value": "true"
+          },
+          "FlamPosition": {
+            "_Value": "-0.200000003"
+          },
+          "FlamVelocity": {
+            "_Value": "0.5"
+          },
+          "GraceNotesEnabled": {
+            "_Value": "false"
+          },
+          "GraceNotesChance": {
+            "_Value": "1"
+          },
+          "GraceNotesVelocity": {
+            "_Value": "0.5"
+          },
+          "GraceNotesPosition": {
+            "_Value": "-0.200000003"
+          },
+          "GraceNotesAmount": {
+            "_Value": "3"
+          },
+          "GraceNotesPitch": {
+            "_Value": "1"
+          },
+          "_Id": "3"
+        },
+        "RecombineAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "15",
+                "_Name": "Dimension"
+              },
+              {
+                "_Id": "16",
+                "_Name": "Shuffle"
+              },
+              {
+                "_Id": "17",
+                "_Name": "Mirror"
+              },
+              {
+                "_Id": "18",
+                "_Name": "RotateAmount"
+              },
+              {
+                "_Id": "19",
+                "_Name": "RotateOnGrid"
+              }
+            ]
+          },
+          "PermutedDimension": {
+            "_Value": "0"
+          },
+          "Shuffle": {
+            "_Value": "false"
+          },
+          "Mirror": {
+            "_Value": "false"
+          },
+          "RotateAmount": {
+            "_Value": "0"
+          },
+          "RotateOnGrid": {
+            "_Value": "false"
+          },
+          "_Id": "4"
+        },
+        "QuantizeAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "15",
+                "_Name": "TripletReference"
+              },
+              {
+                "_Id": "16",
+                "_Name": "QuantizeReference"
+              },
+              {
+                "_Id": "17",
+                "_Name": "Amount"
+              },
+              {
+                "_Id": "18",
+                "_Name": "QuantizeNoteStarts"
+              },
+              {
+                "_Id": "19",
+                "_Name": "QuantizeNoteEnds"
+              }
+            ]
+          },
+          "Reference": {
+            "_Value": "0"
+          },
+          "TripletReference": {
+            "_Value": "false"
+          },
+          "QuantizeNoteStarts": {
+            "_Value": "true"
+          },
+          "QuantizeNoteEnds": {
+            "_Value": "false"
+          },
+          "Amount": {
+            "_Value": "100"
+          },
+          "_Id": "5"
+        },
+        "StrumAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "12",
+                "_Name": "Threshold"
+              },
+              {
+                "_Id": "13",
+                "_Name": "Low"
+              },
+              {
+                "_Id": "14",
+                "_Name": "High"
+              },
+              {
+                "_Id": "15",
+                "_Name": "Tension"
+              }
+            ]
+          },
+          "ChordThreshold": {
+            "_Value": "0"
+          },
+          "StrumLow": {
+            "_Value": "0"
+          },
+          "StrumHigh": {
+            "_Value": "0"
+          },
+          "TensionAmount": {
+            "_Value": "0"
+          },
+          "_Id": "6"
+        }
+      }
+    },
+    "_MajorVersion": "5",
+    "_MinorVersion": "12.0_12120",
+    "_SchemaChangeCount": "2",
+    "_Creator": "Ableton Live 12.1.5",
+    "_Revision": "18e155016678da1939bdc3938f981adf84ebc96d"
+  }
+}

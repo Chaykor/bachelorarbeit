@@ -1,0 +1,1943 @@
+{
+  "Ableton": {
+    "LiveSet": {
+      "NextPointeeId": {
+        "_Value": "22445"
+      },
+      "OverwriteProtectionNumber": {
+        "_Value": "3073"
+      },
+      "LomId": {
+        "_Value": "0"
+      },
+      "LomIdView": {
+        "_Value": "0"
+      },
+      "Tracks": {
+        "MidiTrack": {
+          "LomId": {
+            "_Value": "0"
+          },
+          "LomIdView": {
+            "_Value": "0"
+          },
+          "IsContentSelectedInDocument": {
+            "_Value": "false"
+          },
+          "PreferredContentViewMode": {
+            "_Value": "0"
+          },
+          "TrackDelay": {
+            "Value": {
+              "_Value": "0"
+            },
+            "IsValueSampleBased": {
+              "_Value": "false"
+            }
+          },
+          "Name": {
+            "EffectiveName": {
+              "_Value": "1-MIDI"
+            },
+            "UserName": {
+              "_Value": ""
+            },
+            "Annotation": {
+              "_Value": ""
+            },
+            "MemorizedFirstClipName": {
+              "_Value": ""
+            }
+          },
+          "Color": {
+            "_Value": "16"
+          },
+          "AutomationEnvelopes": {
+            "Envelopes": ""
+          },
+          "TrackGroupId": {
+            "_Value": "-1"
+          },
+          "TrackUnfolded": {
+            "_Value": "true"
+          },
+          "DevicesListWrapper": {
+            "_LomId": "0"
+          },
+          "ClipSlotsListWrapper": {
+            "_LomId": "0"
+          },
+          "ArrangementClipsListWrapper": {
+            "_LomId": "0"
+          },
+          "ViewData": {
+            "_Value": "{\"push-selected-note-mode\": \"play\", \"push-instrument-selected-notes\": [36], \"push-note-repeat-rate\": 0.5, \"push-note-repeat-enabled\": false}"
+          },
+          "TakeLanes": {
+            "TakeLanes": "",
+            "AreTakeLanesFolded": {
+              "_Value": "true"
+            }
+          },
+          "LinkedTrackGroupId": {
+            "_Value": "-1"
+          },
+          "SavedPlayingSlot": {
+            "_Value": "-1"
+          },
+          "SavedPlayingOffset": {
+            "_Value": "0"
+          },
+          "Freeze": {
+            "_Value": "false"
+          },
+          "NeedArrangerRefreeze": {
+            "_Value": "true"
+          },
+          "PostProcessFreezeClips": {
+            "_Value": "0"
+          },
+          "DeviceChain": {
+            "AutomationLanes": {
+              "AutomationLanes": {
+                "AutomationLane": {
+                  "SelectedDevice": {
+                    "_Value": "1"
+                  },
+                  "SelectedEnvelope": {
+                    "_Value": "0"
+                  },
+                  "IsContentSelectedInDocument": {
+                    "_Value": "false"
+                  },
+                  "LaneHeight": {
+                    "_Value": "68"
+                  },
+                  "_Id": "0"
+                }
+              },
+              "AreAdditionalAutomationLanesFolded": {
+                "_Value": "false"
+              }
+            },
+            "ClipEnvelopeChooserViewState": {
+              "SelectedDevice": {
+                "_Value": "1"
+              },
+              "SelectedEnvelope": {
+                "_Value": "0"
+              },
+              "PreferModulationVisible": {
+                "_Value": "false"
+              }
+            },
+            "AudioInputRouting": {
+              "Target": {
+                "_Value": "AudioIn/External/S0"
+              },
+              "UpperDisplayString": {
+                "_Value": "Ext. In"
+              },
+              "LowerDisplayString": {
+                "_Value": "1/2"
+              },
+              "MpeSettings": {
+                "ZoneType": {
+                  "_Value": "0"
+                },
+                "FirstNoteChannel": {
+                  "_Value": "1"
+                },
+                "LastNoteChannel": {
+                  "_Value": "15"
+                }
+              },
+              "MpePitchBendUsesTuning": {
+                "_Value": "true"
+              }
+            },
+            "MidiInputRouting": {
+              "Target": {
+                "_Value": "MidiIn/External.All/-1"
+              },
+              "UpperDisplayString": {
+                "_Value": "Ext: All Ins"
+              },
+              "LowerDisplayString": {
+                "_Value": ""
+              },
+              "MpeSettings": {
+                "ZoneType": {
+                  "_Value": "0"
+                },
+                "FirstNoteChannel": {
+                  "_Value": "1"
+                },
+                "LastNoteChannel": {
+                  "_Value": "15"
+                }
+              },
+              "MpePitchBendUsesTuning": {
+                "_Value": "true"
+              }
+            },
+            "AudioOutputRouting": {
+              "Target": {
+                "_Value": "AudioOut/Main"
+              },
+              "UpperDisplayString": {
+                "_Value": "Master"
+              },
+              "LowerDisplayString": {
+                "_Value": ""
+              },
+              "MpeSettings": {
+                "ZoneType": {
+                  "_Value": "0"
+                },
+                "FirstNoteChannel": {
+                  "_Value": "1"
+                },
+                "LastNoteChannel": {
+                  "_Value": "15"
+                }
+              },
+              "MpePitchBendUsesTuning": {
+                "_Value": "true"
+              }
+            },
+            "MidiOutputRouting": {
+              "Target": {
+                "_Value": "MidiOut/None"
+              },
+              "UpperDisplayString": {
+                "_Value": "None"
+              },
+              "LowerDisplayString": {
+                "_Value": ""
+              },
+              "MpeSettings": {
+                "ZoneType": {
+                  "_Value": "0"
+                },
+                "FirstNoteChannel": {
+                  "_Value": "1"
+                },
+                "LastNoteChannel": {
+                  "_Value": "15"
+                }
+              },
+              "MpePitchBendUsesTuning": {
+                "_Value": "true"
+              }
+            },
+            "Mixer": {
+              "LomId": {
+                "_Value": "0"
+              },
+              "LomIdView": {
+                "_Value": "0"
+              },
+              "IsExpanded": {
+                "_Value": "true"
+              },
+              "BreakoutIsExpanded": {
+                "_Value": "false"
+              },
+              "On": {
+                "LomId": {
+                  "_Value": "0"
+                },
+                "Manual": {
+                  "_Value": "true"
+                },
+                "AutomationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15830"
+                },
+                "MidiCCOnOffThresholds": {
+                  "Min": {
+                    "_Value": "64"
+                  },
+                  "Max": {
+                    "_Value": "127"
+                  }
+                }
+              },
+              "ModulationSourceCount": {
+                "_Value": "0"
+              },
+              "ParametersListWrapper": {
+                "_LomId": "0"
+              },
+              "Pointee": {
+                "_Id": "19712"
+              },
+              "LastSelectedTimeableIndex": {
+                "_Value": "0"
+              },
+              "LastSelectedClipEnvelopeIndex": {
+                "_Value": "0"
+              },
+              "LastPresetRef": {
+                "Value": ""
+              },
+              "LockedScripts": "",
+              "IsFolded": {
+                "_Value": "false"
+              },
+              "ShouldShowPresetName": {
+                "_Value": "false"
+              },
+              "UserName": {
+                "_Value": ""
+              },
+              "Annotation": {
+                "_Value": ""
+              },
+              "SourceContext": {
+                "Value": ""
+              },
+              "MpePitchBendUsesTuning": {
+                "_Value": "true"
+              },
+              "Sends": {
+                "TrackSendHolder": [
+                  {
+                    "Send": {
+                      "LomId": {
+                        "_Value": "0"
+                      },
+                      "Manual": {
+                        "_Value": "0.0003162277571"
+                      },
+                      "MidiControllerRange": {
+                        "Min": {
+                          "_Value": "0.0003162277571"
+                        },
+                        "Max": {
+                          "_Value": "1"
+                        }
+                      },
+                      "AutomationTarget": {
+                        "LockEnvelope": {
+                          "_Value": "0"
+                        },
+                        "_Id": "15831"
+                      },
+                      "ModulationTarget": {
+                        "LockEnvelope": {
+                          "_Value": "0"
+                        },
+                        "_Id": "15832"
+                      }
+                    },
+                    "EnabledByUser": {
+                      "_Value": "true"
+                    },
+                    "_Id": "0"
+                  },
+                  {
+                    "Send": {
+                      "LomId": {
+                        "_Value": "0"
+                      },
+                      "Manual": {
+                        "_Value": "0.0003162277571"
+                      },
+                      "MidiControllerRange": {
+                        "Min": {
+                          "_Value": "0.0003162277571"
+                        },
+                        "Max": {
+                          "_Value": "1"
+                        }
+                      },
+                      "AutomationTarget": {
+                        "LockEnvelope": {
+                          "_Value": "0"
+                        },
+                        "_Id": "15833"
+                      },
+                      "ModulationTarget": {
+                        "LockEnvelope": {
+                          "_Value": "0"
+                        },
+                        "_Id": "15834"
+                      }
+                    },
+                    "EnabledByUser": {
+                      "_Value": "true"
+                    },
+                    "_Id": "1"
+                  }
+                ]
+              },
+              "Speaker": {
+                "LomId": {
+                  "_Value": "0"
+                },
+                "Manual": {
+                  "_Value": "true"
+                },
+                "AutomationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15835"
+                },
+                "MidiCCOnOffThresholds": {
+                  "Min": {
+                    "_Value": "64"
+                  },
+                  "Max": {
+                    "_Value": "127"
+                  }
+                }
+              },
+              "SoloSink": {
+                "_Value": "false"
+              },
+              "PanMode": {
+                "_Value": "0"
+              },
+              "Pan": {
+                "LomId": {
+                  "_Value": "0"
+                },
+                "Manual": {
+                  "_Value": "0"
+                },
+                "MidiControllerRange": {
+                  "Min": {
+                    "_Value": "-1"
+                  },
+                  "Max": {
+                    "_Value": "1"
+                  }
+                },
+                "AutomationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15836"
+                },
+                "ModulationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15837"
+                }
+              },
+              "SplitStereoPanL": {
+                "LomId": {
+                  "_Value": "0"
+                },
+                "Manual": {
+                  "_Value": "-1"
+                },
+                "MidiControllerRange": {
+                  "Min": {
+                    "_Value": "-1"
+                  },
+                  "Max": {
+                    "_Value": "1"
+                  }
+                },
+                "AutomationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "16151"
+                },
+                "ModulationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "16152"
+                }
+              },
+              "SplitStereoPanR": {
+                "LomId": {
+                  "_Value": "0"
+                },
+                "Manual": {
+                  "_Value": "1"
+                },
+                "MidiControllerRange": {
+                  "Min": {
+                    "_Value": "-1"
+                  },
+                  "Max": {
+                    "_Value": "1"
+                  }
+                },
+                "AutomationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "16153"
+                },
+                "ModulationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "16154"
+                }
+              },
+              "Volume": {
+                "LomId": {
+                  "_Value": "0"
+                },
+                "Manual": {
+                  "_Value": "1"
+                },
+                "MidiControllerRange": {
+                  "Min": {
+                    "_Value": "0.0003162277571"
+                  },
+                  "Max": {
+                    "_Value": "1.99526238"
+                  }
+                },
+                "AutomationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15838"
+                },
+                "ModulationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15839"
+                }
+              },
+              "ViewStateSessionTrackWidth": {
+                "_Value": "93"
+              },
+              "CrossFadeState": {
+                "LomId": {
+                  "_Value": "0"
+                },
+                "Manual": {
+                  "_Value": "1"
+                },
+                "AutomationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15840"
+                }
+              },
+              "SendsListWrapper": {
+                "_LomId": "0"
+              }
+            },
+            "MainSequencer": {
+              "LomId": {
+                "_Value": "0"
+              },
+              "LomIdView": {
+                "_Value": "0"
+              },
+              "IsExpanded": {
+                "_Value": "true"
+              },
+              "BreakoutIsExpanded": {
+                "_Value": "false"
+              },
+              "On": {
+                "LomId": {
+                  "_Value": "0"
+                },
+                "Manual": {
+                  "_Value": "true"
+                },
+                "AutomationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15841"
+                },
+                "MidiCCOnOffThresholds": {
+                  "Min": {
+                    "_Value": "64"
+                  },
+                  "Max": {
+                    "_Value": "127"
+                  }
+                }
+              },
+              "ModulationSourceCount": {
+                "_Value": "0"
+              },
+              "ParametersListWrapper": {
+                "_LomId": "0"
+              },
+              "Pointee": {
+                "_Id": "19713"
+              },
+              "LastSelectedTimeableIndex": {
+                "_Value": "0"
+              },
+              "LastSelectedClipEnvelopeIndex": {
+                "_Value": "0"
+              },
+              "LastPresetRef": {
+                "Value": ""
+              },
+              "LockedScripts": "",
+              "IsFolded": {
+                "_Value": "false"
+              },
+              "ShouldShowPresetName": {
+                "_Value": "false"
+              },
+              "UserName": {
+                "_Value": ""
+              },
+              "Annotation": {
+                "_Value": ""
+              },
+              "SourceContext": {
+                "Value": ""
+              },
+              "MpePitchBendUsesTuning": {
+                "_Value": "true"
+              },
+              "MonitoringEnum": {
+                "_Value": "1"
+              },
+              "KeepRecordMonitoringLatency": {
+                "_Value": "true"
+              },
+              "ClipTimeable": {
+                "ArrangerAutomation": {
+                  "Events": "",
+                  "AutomationTransformViewState": {
+                    "IsTransformPending": {
+                      "_Value": "false"
+                    },
+                    "TimeAndValueTransforms": ""
+                  }
+                }
+              },
+              "Recorder": {
+                "IsArmed": {
+                  "_Value": "false"
+                },
+                "TakeCounter": {
+                  "_Value": "0"
+                }
+              }
+            },
+            "FreezeSequencer": {
+              "LomId": {
+                "_Value": "0"
+              },
+              "LomIdView": {
+                "_Value": "0"
+              },
+              "IsExpanded": {
+                "_Value": "true"
+              },
+              "BreakoutIsExpanded": {
+                "_Value": "false"
+              },
+              "On": {
+                "LomId": {
+                  "_Value": "0"
+                },
+                "Manual": {
+                  "_Value": "true"
+                },
+                "AutomationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15973"
+                },
+                "MidiCCOnOffThresholds": {
+                  "Min": {
+                    "_Value": "64"
+                  },
+                  "Max": {
+                    "_Value": "127"
+                  }
+                }
+              },
+              "ModulationSourceCount": {
+                "_Value": "0"
+              },
+              "ParametersListWrapper": {
+                "_LomId": "0"
+              },
+              "Pointee": {
+                "_Id": "19714"
+              },
+              "LastSelectedTimeableIndex": {
+                "_Value": "0"
+              },
+              "LastSelectedClipEnvelopeIndex": {
+                "_Value": "0"
+              },
+              "LastPresetRef": {
+                "Value": ""
+              },
+              "LockedScripts": "",
+              "IsFolded": {
+                "_Value": "false"
+              },
+              "ShouldShowPresetName": {
+                "_Value": "false"
+              },
+              "UserName": {
+                "_Value": ""
+              },
+              "Annotation": {
+                "_Value": ""
+              },
+              "SourceContext": {
+                "Value": ""
+              },
+              "MpePitchBendUsesTuning": {
+                "_Value": "true"
+              },
+              "Sample": {
+                "ArrangerAutomation": {
+                  "Events": "",
+                  "AutomationTransformViewState": {
+                    "IsTransformPending": {
+                      "_Value": "false"
+                    },
+                    "TimeAndValueTransforms": ""
+                  }
+                }
+              },
+              "VolumeModulationTarget": {
+                "LockEnvelope": {
+                  "_Value": "0"
+                },
+                "_Id": "15974"
+              },
+              "TranspositionModulationTarget": {
+                "LockEnvelope": {
+                  "_Value": "0"
+                },
+                "_Id": "15975"
+              },
+              "TransientEnvelopeModulationTarget": {
+                "LockEnvelope": {
+                  "_Value": "0"
+                },
+                "_Id": "22153"
+              },
+              "GrainSizeModulationTarget": {
+                "LockEnvelope": {
+                  "_Value": "0"
+                },
+                "_Id": "15976"
+              },
+              "FluxModulationTarget": {
+                "LockEnvelope": {
+                  "_Value": "0"
+                },
+                "_Id": "15977"
+              },
+              "SampleOffsetModulationTarget": {
+                "LockEnvelope": {
+                  "_Value": "0"
+                },
+                "_Id": "15978"
+              },
+              "ComplexProFormantsModulationTarget": {
+                "LockEnvelope": {
+                  "_Value": "0"
+                },
+                "_Id": "22154"
+              },
+              "ComplexProEnvelopeModulationTarget": {
+                "LockEnvelope": {
+                  "_Value": "0"
+                },
+                "_Id": "22155"
+              },
+              "PitchViewScrollPosition": {
+                "_Value": "-1073741824"
+              },
+              "SampleOffsetModulationScrollPosition": {
+                "_Value": "-1073741824"
+              },
+              "Recorder": {
+                "IsArmed": {
+                  "_Value": "false"
+                },
+                "TakeCounter": {
+                  "_Value": "1"
+                }
+              }
+            },
+            "DeviceChain": {
+              "Devices": "",
+              "SignalModulations": ""
+            }
+          },
+          "ReWireDeviceMidiTargetId": {
+            "_Value": "0"
+          },
+          "PitchbendRange": {
+            "_Value": "96"
+          },
+          "IsTuned": {
+            "_Value": "true"
+          },
+          "ControllerLayoutRemoteable": {
+            "_Value": "0"
+          },
+          "ControllerLayoutCustomization": {
+            "PitchClassSource": {
+              "_Value": "0"
+            },
+            "OctaveSource": {
+              "_Value": "2"
+            },
+            "KeyNoteTarget": {
+              "_Value": "60"
+            },
+            "StepSize": {
+              "_Value": "1"
+            },
+            "OctaveEvery": {
+              "_Value": "12"
+            },
+            "AllowedKeys": {
+              "_Value": "0"
+            },
+            "FillerKeysMapTo": {
+              "_Value": "0"
+            }
+          },
+          "_Id": "12",
+          "_SelectedToolPanel": "7",
+          "_SelectedTransformationName": "",
+          "_SelectedGeneratorName": ""
+        }
+      },
+      "SignalModulations": "",
+      "GlobalQuantisation": {
+        "_Value": "4"
+      },
+      "IsContentSplitterOpen": {
+        "_Value": "true"
+      },
+      "IsExpressionSplitterOpen": {
+        "_Value": "true"
+      },
+      "ViewStateFxSlotCount": {
+        "_Value": "4"
+      },
+      "ViewStateSessionMixerVolumeSectionHeight": {
+        "_Value": "120"
+      },
+      "ViewStateArrangerMixerVolumeSectionHeight": {
+        "_Value": "120"
+      },
+      "ShouldSceneTempoAndTimeSignatureBeVisible": {
+        "_Value": "false"
+      },
+      "WaveformVerticalZoomFactor": {
+        "_Value": "1"
+      },
+      "IsWaveformVerticalZoomActive": {
+        "_Value": "true"
+      },
+      "Locators": {
+        "Locators": ""
+      },
+      "DetailClipKeyMidis": "",
+      "TracksListWrapper": {
+        "_LomId": "0"
+      },
+      "VisibleTracksListWrapper": {
+        "_LomId": "0"
+      },
+      "ReturnTracksListWrapper": {
+        "_LomId": "0"
+      },
+      "ScenesListWrapper": {
+        "_LomId": "0"
+      },
+      "CuePointsListWrapper": {
+        "_LomId": "0"
+      },
+      "SelectedDocumentViewInMainWindow": {
+        "_Value": "0"
+      },
+      "Annotation": {
+        "_Value": ""
+      },
+      "SoloOrPflSavedValue": {
+        "_Value": "true"
+      },
+      "SoloInPlace": {
+        "_Value": "true"
+      },
+      "CrossfadeCurve": {
+        "_Value": "2"
+      },
+      "LatencyCompensation": {
+        "_Value": "2"
+      },
+      "HighlightedTrackIndex": {
+        "_Value": "3"
+      },
+      "AutomationMode": {
+        "_Value": "false"
+      },
+      "SnapAutomationToGrid": {
+        "_Value": "true"
+      },
+      "ArrangementOverdub": {
+        "_Value": "false"
+      },
+      "ColorSequenceIndex": {
+        "_Value": "214510196"
+      },
+      "AutoColorPickerForPlayerAndGroupTracks": {
+        "NextColorIndex": {
+          "_Value": "2"
+        }
+      },
+      "AutoColorPickerForReturnAndMainTracks": {
+        "NextColorIndex": {
+          "_Value": "11"
+        }
+      },
+      "ViewData": {
+        "_Value": "{}"
+      },
+      "ResetNonautomatedMidiControllersOnClipStarts": {
+        "_Value": "true"
+      },
+      "MidiFoldIn": {
+        "_Value": "false"
+      },
+      "MidiFoldMode": {
+        "_Value": "-99"
+      },
+      "MultiClipFocusMode": {
+        "_Value": "false"
+      },
+      "MultiClipLoopBarHeight": {
+        "_Value": "0"
+      },
+      "MidiPrelisten": {
+        "_Value": "false"
+      },
+      "LinkedTrackGroups": "",
+      "NoteSpellingPreference": {
+        "_Value": "0"
+      },
+      "AccidentalSpellingPreference": {
+        "_Value": "3"
+      },
+      "PreferFlatRootNote": {
+        "_Value": "false"
+      },
+      "UseWarperLegacyHiQMode": {
+        "_Value": "false"
+      },
+      "VideoWindowRect": {
+        "_Top": "-2147483648",
+        "_Left": "-2147483648",
+        "_Bottom": "-2147483648",
+        "_Right": "-2147483648"
+      },
+      "ShowVideoWindow": {
+        "_Value": "true"
+      },
+      "TuningSystems": "",
+      "TrackHeaderWidth": {
+        "_Value": "93"
+      },
+      "ViewStateMainWindowClipDetailOpen": {
+        "_Value": "true"
+      },
+      "ViewStateMainWindowHiddenOtherDocViewTypeClipDetailOpen": {
+        "_Value": "false"
+      },
+      "ViewStateMainWindowHiddenOtherDocViewTypeDeviceDetailOpen": {
+        "_Value": "true"
+      },
+      "ViewStateMainWindowDeviceDetailOpen": {
+        "_Value": "false"
+      },
+      "ViewStateSecondWindowClipDetailOpen": {
+        "_Value": "false"
+      },
+      "ViewStateSecondWindowDeviceDetailOpen": {
+        "_Value": "true"
+      },
+      "ViewStates": {
+        "MixerInArrangement": {
+          "_Value": "0"
+        },
+        "ArrangerMixerIO": {
+          "_Value": "1"
+        },
+        "ArrangerMixerSends": {
+          "_Value": "1"
+        },
+        "ArrangerMixerReturns": {
+          "_Value": "1"
+        },
+        "ArrangerMixerVolume": {
+          "_Value": "1"
+        },
+        "ArrangerMixerTrackOptions": {
+          "_Value": "0"
+        },
+        "ArrangerMixerCrossFade": {
+          "_Value": "0"
+        },
+        "ArrangerMixerTrackPerformanceImpactMeter": {
+          "_Value": "0"
+        },
+        "MixerInSession": {
+          "_Value": "1"
+        },
+        "SessionIO": {
+          "_Value": "1"
+        },
+        "SessionSends": {
+          "_Value": "1"
+        },
+        "SessionReturns": {
+          "_Value": "1"
+        },
+        "SessionVolume": {
+          "_Value": "1"
+        },
+        "SessionTrackOptions": {
+          "_Value": "0"
+        },
+        "SessionCrossFade": {
+          "_Value": "0"
+        },
+        "SessionTrackPerformanceImpactMeter": {
+          "_Value": "0"
+        },
+        "SessionShowOverView": {
+          "_Value": "0"
+        },
+        "ArrangerIO": {
+          "_Value": "1"
+        },
+        "ArrangerReturns": {
+          "_Value": "1"
+        },
+        "ArrangerVolume": {
+          "_Value": "1"
+        },
+        "ArrangerTrackOptions": {
+          "_Value": "0"
+        },
+        "ArrangerShowOverView": {
+          "_Value": "1"
+        }
+      },
+      "NoteAlgorithms": {
+        "ArpeggiateAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "15",
+                "_Name": "Rate"
+              },
+              {
+                "_Id": "16",
+                "_Name": "Steps"
+              },
+              {
+                "_Id": "17",
+                "_Name": "Distance"
+              },
+              {
+                "_Id": "18",
+                "_Name": "Gate"
+              },
+              {
+                "_Id": "19",
+                "_Name": "Style"
+              }
+            ]
+          },
+          "Rate": {
+            "_Value": "10"
+          },
+          "Steps": {
+            "_Value": "2"
+          },
+          "Distance": {
+            "_Value": "12"
+          },
+          "Gate": {
+            "_Value": "1"
+          },
+          "Style": {
+            "_Value": "0"
+          },
+          "_Id": "0"
+        },
+        "SpanAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "9",
+                "_Name": "Mode"
+              },
+              {
+                "_Id": "10",
+                "_Name": "LengthVariation"
+              },
+              {
+                "_Id": "11",
+                "_Name": "LengthOffset"
+              }
+            ]
+          },
+          "Mode": {
+            "_Value": "1"
+          },
+          "ChordThreshold": {
+            "_Value": "10"
+          },
+          "LengthVariation": {
+            "_Value": "0"
+          },
+          "LengthOffset": {
+            "_Value": "0"
+          },
+          "_Id": "1"
+        },
+        "ConnectAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "12",
+                "_Name": "Tie"
+              },
+              {
+                "_Id": "13",
+                "_Name": "Density"
+              },
+              {
+                "_Id": "14",
+                "_Name": "Spread"
+              },
+              {
+                "_Id": "15",
+                "_Name": "Rate"
+              }
+            ]
+          },
+          "Tie": {
+            "_Value": "0"
+          },
+          "Density": {
+            "_Value": "1"
+          },
+          "Spread": {
+            "_Value": "0"
+          },
+          "Rate": {
+            "_Value": "0"
+          },
+          "_Id": "2"
+        },
+        "OrnamentAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "27",
+                "_Name": "FlamEnabled"
+              },
+              {
+                "_Id": "28",
+                "_Name": "FlamPosition"
+              },
+              {
+                "_Id": "29",
+                "_Name": "FlamVelocity"
+              },
+              {
+                "_Id": "30",
+                "_Name": "GraceNotesEnabled"
+              },
+              {
+                "_Id": "31",
+                "_Name": "GraceNotesChance"
+              },
+              {
+                "_Id": "32",
+                "_Name": "GraceNotesVelocity"
+              },
+              {
+                "_Id": "33",
+                "_Name": "GraceNotesPosition"
+              },
+              {
+                "_Id": "34",
+                "_Name": "GraceNotesAmount"
+              },
+              {
+                "_Id": "35",
+                "_Name": "GraceNotesPitch"
+              }
+            ]
+          },
+          "FlamEnabled": {
+            "_Value": "true"
+          },
+          "FlamPosition": {
+            "_Value": "-0.200000003"
+          },
+          "FlamVelocity": {
+            "_Value": "0.5"
+          },
+          "GraceNotesEnabled": {
+            "_Value": "false"
+          },
+          "GraceNotesChance": {
+            "_Value": "1"
+          },
+          "GraceNotesVelocity": {
+            "_Value": "0.5"
+          },
+          "GraceNotesPosition": {
+            "_Value": "-0.200000003"
+          },
+          "GraceNotesAmount": {
+            "_Value": "3"
+          },
+          "GraceNotesPitch": {
+            "_Value": "1"
+          },
+          "_Id": "3"
+        },
+        "RecombineAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "15",
+                "_Name": "Dimension"
+              },
+              {
+                "_Id": "16",
+                "_Name": "Shuffle"
+              },
+              {
+                "_Id": "17",
+                "_Name": "Mirror"
+              },
+              {
+                "_Id": "18",
+                "_Name": "RotateAmount"
+              },
+              {
+                "_Id": "19",
+                "_Name": "RotateOnGrid"
+              }
+            ]
+          },
+          "PermutedDimension": {
+            "_Value": "0"
+          },
+          "Shuffle": {
+            "_Value": "false"
+          },
+          "Mirror": {
+            "_Value": "false"
+          },
+          "RotateAmount": {
+            "_Value": "0"
+          },
+          "RotateOnGrid": {
+            "_Value": "false"
+          },
+          "_Id": "4"
+        },
+        "QuantizeAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "15",
+                "_Name": "TripletReference"
+              },
+              {
+                "_Id": "16",
+                "_Name": "QuantizeReference"
+              },
+              {
+                "_Id": "17",
+                "_Name": "Amount"
+              },
+              {
+                "_Id": "18",
+                "_Name": "QuantizeNoteStarts"
+              },
+              {
+                "_Id": "19",
+                "_Name": "QuantizeNoteEnds"
+              }
+            ]
+          },
+          "Reference": {
+            "_Value": "0"
+          },
+          "TripletReference": {
+            "_Value": "false"
+          },
+          "QuantizeNoteStarts": {
+            "_Value": "true"
+          },
+          "QuantizeNoteEnds": {
+            "_Value": "false"
+          },
+          "Amount": {
+            "_Value": "100"
+          },
+          "_Id": "5"
+        },
+        "StrumAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "12",
+                "_Name": "Threshold"
+              },
+              {
+                "_Id": "13",
+                "_Name": "Low"
+              },
+              {
+                "_Id": "14",
+                "_Name": "High"
+              },
+              {
+                "_Id": "15",
+                "_Name": "Tension"
+              }
+            ]
+          },
+          "ChordThreshold": {
+            "_Value": "0"
+          },
+          "StrumLow": {
+            "_Value": "0"
+          },
+          "StrumHigh": {
+            "_Value": "0"
+          },
+          "TensionAmount": {
+            "_Value": "0"
+          },
+          "_Id": "6"
+        },
+        "TimeWarpAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "63",
+                "_Name": "StretchNoteEnd"
+              },
+              {
+                "_Id": "64",
+                "_Name": "PreserveTimeRange"
+              },
+              {
+                "_Id": "65",
+                "_Name": "Quantize"
+              },
+              {
+                "_Id": "66",
+                "_Name": "Value1"
+              },
+              {
+                "_Id": "67",
+                "_Name": "Time1"
+              },
+              {
+                "_Id": "68",
+                "_Name": "IsActive1"
+              },
+              {
+                "_Id": "69",
+                "_Name": "Value2"
+              },
+              {
+                "_Id": "70",
+                "_Name": "Time2"
+              },
+              {
+                "_Id": "71",
+                "_Name": "IsActive2"
+              },
+              {
+                "_Id": "72",
+                "_Name": "Value3"
+              },
+              {
+                "_Id": "73",
+                "_Name": "Time3"
+              },
+              {
+                "_Id": "74",
+                "_Name": "IsActive3"
+              }
+            ]
+          },
+          "Breakpoints": {
+            "Breakpoint": [
+              {
+                "Value": {
+                  "_Value": "0.5"
+                },
+                "Time": {
+                  "_Value": "0"
+                },
+                "Control1X": {
+                  "_Value": "0.5"
+                },
+                "Control1Y": {
+                  "_Value": "0.5"
+                },
+                "Control2X": {
+                  "_Value": "0.5"
+                },
+                "Control2Y": {
+                  "_Value": "0.5"
+                },
+                "IsActive": {
+                  "_Value": "true"
+                },
+                "_Id": "0"
+              },
+              {
+                "Value": {
+                  "_Value": "0.5"
+                },
+                "Time": {
+                  "_Value": "0.5"
+                },
+                "Control1X": {
+                  "_Value": "0.5"
+                },
+                "Control1Y": {
+                  "_Value": "0.5"
+                },
+                "Control2X": {
+                  "_Value": "0.5"
+                },
+                "Control2Y": {
+                  "_Value": "0.5"
+                },
+                "IsActive": {
+                  "_Value": "false"
+                },
+                "_Id": "1"
+              },
+              {
+                "Value": {
+                  "_Value": "0.5"
+                },
+                "Time": {
+                  "_Value": "1"
+                },
+                "Control1X": {
+                  "_Value": "0.5"
+                },
+                "Control1Y": {
+                  "_Value": "0.5"
+                },
+                "Control2X": {
+                  "_Value": "0.5"
+                },
+                "Control2Y": {
+                  "_Value": "0.5"
+                },
+                "IsActive": {
+                  "_Value": "true"
+                },
+                "_Id": "2"
+              }
+            ]
+          },
+          "StretchNoteEnd": {
+            "_Value": "true"
+          },
+          "PreserveTimeRange": {
+            "_Value": "true"
+          },
+          "Quantize": {
+            "_Value": "false"
+          },
+          "_Id": "7"
+        },
+        "RhythmAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "42",
+                "_Name": "Density"
+              },
+              {
+                "_Id": "43",
+                "_Name": "Repetitions"
+              },
+              {
+                "_Id": "44",
+                "_Name": "Pattern"
+              },
+              {
+                "_Id": "45",
+                "_Name": "Steps"
+              },
+              {
+                "_Id": "46",
+                "_Name": "Pitch"
+              },
+              {
+                "_Id": "47",
+                "_Name": "Velocity"
+              },
+              {
+                "_Id": "48",
+                "_Name": "Accent"
+              },
+              {
+                "_Id": "49",
+                "_Name": "Period"
+              },
+              {
+                "_Id": "50",
+                "_Name": "Offset"
+              },
+              {
+                "_Id": "51",
+                "_Name": "Shift"
+              },
+              {
+                "_Id": "52",
+                "_Name": "StepDuration"
+              },
+              {
+                "_Id": "53",
+                "_Name": "Split"
+              },
+              {
+                "_Id": "54",
+                "_Name": "VelocityOffsetIncrement"
+              },
+              {
+                "_Id": "55",
+                "_Name": "VelocityOffsetDecrement"
+              }
+            ]
+          },
+          "Density": {
+            "_Value": "4"
+          },
+          "Repetitions": {
+            "_Value": "1"
+          },
+          "Pattern": {
+            "_Value": "14"
+          },
+          "PatternLength": {
+            "_Value": "8"
+          },
+          "Pitch": {
+            "_Value": "36"
+          },
+          "Velocity": {
+            "_Value": "100"
+          },
+          "Accent": {
+            "_Value": "127"
+          },
+          "Period": {
+            "_Value": "4"
+          },
+          "Offset": {
+            "_Value": "0"
+          },
+          "Shift": {
+            "_Value": "0"
+          },
+          "StepDuration": {
+            "_Value": "7"
+          },
+          "Split": {
+            "_Value": "0"
+          },
+          "_Id": "8"
+        },
+        "StacksAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "36",
+                "_Name": "AppendChord"
+              },
+              {
+                "_Id": "37",
+                "_Name": "DeleteSelectedChord"
+              },
+              {
+                "_Id": "38",
+                "_Name": "RootPitch1"
+              },
+              {
+                "_Id": "39",
+                "_Name": "Inversion1"
+              },
+              {
+                "_Id": "40",
+                "_Name": "Rule1"
+              },
+              {
+                "_Id": "41",
+                "_Name": "Duration1"
+              },
+              {
+                "_Id": "42",
+                "_Name": "Offset1"
+              }
+            ]
+          },
+          "Sequence": {
+            "Chord": {
+              "RootDegree": {
+                "_Value": "0"
+              },
+              "Octave": {
+                "_Value": "3"
+              },
+              "RootPitch": {
+                "_Value": "60"
+              },
+              "Inversion": {
+                "_Value": "0"
+              },
+              "RuleNumber": {
+                "_Value": "0"
+              },
+              "Duration": {
+                "_Value": "1"
+              },
+              "Offset": {
+                "_Value": "0"
+              },
+              "_Id": "8"
+            }
+          },
+          "_Id": "9"
+        },
+        "ShapeAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "21",
+                "_Name": "ShapePresets"
+              },
+              {
+                "_Id": "22",
+                "_Name": "Rate"
+              },
+              {
+                "_Id": "23",
+                "_Name": "Tie"
+              },
+              {
+                "_Id": "24",
+                "_Name": "Density"
+              },
+              {
+                "_Id": "25",
+                "_Name": "MinPitch"
+              },
+              {
+                "_Id": "26",
+                "_Name": "MaxPitch"
+              },
+              {
+                "_Id": "27",
+                "_Name": "PitchVariation"
+              }
+            ]
+          },
+          "ShapeLevels": {
+            "RemoteableFloat": [
+              {
+                "_Id": "0",
+                "_Value": "0"
+              },
+              {
+                "_Id": "1",
+                "_Value": "0.05000000075"
+              },
+              {
+                "_Id": "2",
+                "_Value": "0.1000000015"
+              },
+              {
+                "_Id": "3",
+                "_Value": "0.150000006"
+              },
+              {
+                "_Id": "4",
+                "_Value": "0.200000003"
+              },
+              {
+                "_Id": "5",
+                "_Value": "0.25"
+              },
+              {
+                "_Id": "6",
+                "_Value": "0.3000000119"
+              },
+              {
+                "_Id": "7",
+                "_Value": "0.349999994"
+              },
+              {
+                "_Id": "8",
+                "_Value": "0.400000006"
+              },
+              {
+                "_Id": "9",
+                "_Value": "0.4499999881"
+              },
+              {
+                "_Id": "10",
+                "_Value": "0.5"
+              },
+              {
+                "_Id": "11",
+                "_Value": "0.5500000119"
+              },
+              {
+                "_Id": "12",
+                "_Value": "0.6000000238"
+              },
+              {
+                "_Id": "13",
+                "_Value": "0.6499999762"
+              },
+              {
+                "_Id": "14",
+                "_Value": "0.6999999881"
+              },
+              {
+                "_Id": "15",
+                "_Value": "0.75"
+              },
+              {
+                "_Id": "16",
+                "_Value": "0.8000000119"
+              },
+              {
+                "_Id": "17",
+                "_Value": "0.8500000238"
+              },
+              {
+                "_Id": "18",
+                "_Value": "0.8999999762"
+              },
+              {
+                "_Id": "19",
+                "_Value": "0.9499999881"
+              },
+              {
+                "_Id": "20",
+                "_Value": "1"
+              }
+            ]
+          },
+          "ShapePresets": {
+            "_Value": "2"
+          },
+          "Rate": {
+            "_Value": "0"
+          },
+          "Tie": {
+            "_Value": "0"
+          },
+          "Density": {
+            "_Value": "1"
+          },
+          "MinPitch": {
+            "_Value": "60"
+          },
+          "MaxPitch": {
+            "_Value": "84"
+          },
+          "PitchVariation": {
+            "_Value": "0"
+          },
+          "_Id": "10"
+        },
+        "SeedAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "24",
+                "_Name": "Density"
+              },
+              {
+                "_Id": "25",
+                "_Name": "MinPitch"
+              },
+              {
+                "_Id": "26",
+                "_Name": "MaxPitch"
+              },
+              {
+                "_Id": "27",
+                "_Name": "MinDuration"
+              },
+              {
+                "_Id": "28",
+                "_Name": "MaxDuration"
+              },
+              {
+                "_Id": "29",
+                "_Name": "MinVelocity"
+              },
+              {
+                "_Id": "30",
+                "_Name": "MaxVelocity"
+              },
+              {
+                "_Id": "31",
+                "_Name": "VerticalLimit"
+              }
+            ]
+          },
+          "NotesDensity": {
+            "_Value": "0.5"
+          },
+          "MinPitch": {
+            "_Value": "60"
+          },
+          "MaxPitch": {
+            "_Value": "84"
+          },
+          "MinDuration": {
+            "_Value": "-6"
+          },
+          "MaxDuration": {
+            "_Value": "-3"
+          },
+          "MinVelocity": {
+            "_Value": "30"
+          },
+          "MaxVelocity": {
+            "_Value": "100"
+          },
+          "VerticalLimit": {
+            "_Value": "4"
+          },
+          "_Id": "11"
+        },
+        "PitchFilterAlgorithm": {
+          "NamedKeyMidiRemoteables": "",
+          "PitchClasses": {
+            "RemoteableBool": [
+              {
+                "_Id": "96",
+                "_Value": "false"
+              },
+              {
+                "_Id": "97",
+                "_Value": "false"
+              },
+              {
+                "_Id": "98",
+                "_Value": "false"
+              },
+              {
+                "_Id": "99",
+                "_Value": "false"
+              },
+              {
+                "_Id": "100",
+                "_Value": "false"
+              },
+              {
+                "_Id": "101",
+                "_Value": "false"
+              },
+              {
+                "_Id": "102",
+                "_Value": "false"
+              },
+              {
+                "_Id": "103",
+                "_Value": "false"
+              },
+              {
+                "_Id": "104",
+                "_Value": "false"
+              },
+              {
+                "_Id": "105",
+                "_Value": "false"
+              },
+              {
+                "_Id": "106",
+                "_Value": "false"
+              },
+              {
+                "_Id": "107",
+                "_Value": "false"
+              }
+            ]
+          },
+          "DrumPad": {
+            "_Value": "128"
+          },
+          "Invert": {
+            "_Value": "false"
+          },
+          "_Id": "12"
+        },
+        "TimeFilterAlgorithm": {
+          "NamedKeyMidiRemoteables": "",
+          "Start": {
+            "_Value": "0"
+          },
+          "Length": {
+            "_Value": "0.25"
+          },
+          "Repeat": {
+            "_Value": "0"
+          },
+          "Invert": {
+            "_Value": "false"
+          },
+          "_Id": "13"
+        }
+      }
+    },
+    "_MajorVersion": "5",
+    "_MinorVersion": "12.0_12120",
+    "_SchemaChangeCount": "2",
+    "_Creator": "Ableton Live 12.1.5",
+    "_Revision": "18e155016678da1939bdc3938f981adf84ebc96d"
+  }
+}

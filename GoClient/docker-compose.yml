@@ -1,0 +1,26 @@
+services:
+  my-go-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: GoClient
+    stdin_open: true
+    tty: true
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - ./local_output:/app/output
+    mem_limit: 2512m
+
+    # Ressourcenlimits
+    deploy:
+      resources:
+        limits:
+          cpus: "1.0"
+          memory: "2512M"
+
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"

@@ -1,0 +1,37 @@
+const express = require("express");
+const bodyParser = require("body-parser");
+const cors = require("cors");
+
+const app = express();
+const PORT = 3000;
+const MAX_REQUEST_SIZE = "15mb";
+
+// Middleware
+app.use(cors());
+app.use(bodyParser.json({ limit: MAX_REQUEST_SIZE }));
+app.use(bodyParser.text({ limit: MAX_REQUEST_SIZE, type: "application/xml" }));
+
+// JSON Endpoint
+app.post("/json", (req, res) => {
+    //console.log("JSON empfangen:", req.body);
+
+    res.status(200).json({
+        message: "JSON erfolgreich empfangen",
+        received: req.body
+    });
+});
+
+// XML Endpoint
+app.post("/xml", (req, res) => {
+    //console.log("XML empfangen:", req.body);
+
+    const responseBody = `<response><message>XML erfolgreich empfangen</message><received>${req.body}</received></response>`;
+
+    res.set("Content-Type", "application/xml");
+    res.status(200).send(responseBody);
+});
+
+// Server starten
+app.listen(PORT, () => {
+    console.log(`Server läuft unter http://127.0.0.1:${PORT}`);
+});

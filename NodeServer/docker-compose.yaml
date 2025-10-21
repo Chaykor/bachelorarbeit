@@ -1,0 +1,18 @@
+services:
+  my-node-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: NodeServer
+    stdin_open: true
+    tty: true
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    ports:
+      - "3000:3000"
+
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"

@@ -1,0 +1,25 @@
+services:
+  my-go-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: NodeClient
+    stdin_open: true
+    tty: true
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - ./local_output:/app/output
+
+    # Ressourcenlimits
+    deploy:
+      resources:
+        limits:
+          cpus: "1.0"
+          memory: "1512M"
+
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"

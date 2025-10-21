@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ableton MajorVersion="5" MinorVersion="12.0_12120" SchemaChangeCount="2" Creator="Ableton Live 12.1.5" Revision="18e155016678da1939bdc3938f981adf84ebc96d">
+    <LiveSet>
+        <NextPointeeId Value="22445" />
+        <OverwriteProtectionNumber Value="3073" />
+        <LomId Value="0" />
+        <LomIdView Value="0" />
+        <Tracks>
+        <MidiTrack Id="12" SelectedToolPanel="7" SelectedTransformationName="" SelectedGeneratorName="">
+            <LomId Value="0" />
+            <LomIdView Value="0" />
+            <IsContentSelectedInDocument Value="false" />
+            <PreferredContentViewMode Value="0" />
+            <TrackDelay>
+                <Value Value="0" />
+                <IsValueSampleBased Value="false" />
+            </TrackDelay>
+            <Name>
+                <EffectiveName Value="1-MIDI" />
+                <UserName Value="" />
+                <Annotation Value="" />
+                <MemorizedFirstClipName Value="" />
+            </Name>
+            <Color Value="16" />
+            <AutomationEnvelopes>
+                <Envelopes />
+            </AutomationEnvelopes>
+            <TrackGroupId Value="-1" />
+            <TrackUnfolded Value="true" />
+            <DevicesListWrapper LomId="0" />
+            <ClipSlotsListWrapper LomId="0" />
+            <ArrangementClipsListWrapper LomId="0" />
+            <ViewData Value='{"push-selected-note-mode": "play", "push-instrument-selected-notes": [36], "push-note-repeat-rate": 0.5, "push-note-repeat-enabled": false}' />
+            <TakeLanes>
+                <TakeLanes />
+                <AreTakeLanesFolded Value="true" />
+            </TakeLanes>
+            <LinkedTrackGroupId Value="-1" />
+            <SavedPlayingSlot Value="-1" />
+            <SavedPlayingOffset Value="0" />
+            <Freeze Value="false" />
+            <NeedArrangerRefreeze Value="true" />
+            <PostProcessFreezeClips Value="0" />
+            <ReWireDeviceMidiTargetId Value="0" />
+            <PitchbendRange Value="96" />
+            <IsTuned Value="true" />
+            <ControllerLayoutRemoteable Value="0" />
+            <ControllerLayoutCustomization>
+                <PitchClassSource Value="0" />
+                <OctaveSource Value="2" />
+                <KeyNoteTarget Value="60" />
+                <StepSize Value="1" />
+                <OctaveEvery Value="12" />
+                <AllowedKeys Value="0" />
+                <FillerKeysMapTo Value="0" />
+            </ControllerLayoutCustomization>
+        </MidiTrack>
+        </Tracks>
+        <SessionScrollPos X="0" Y="0" />
+        <SignalModulations />
+        <GlobalQuantisation Value="4" />
+        <AutoQuantisation Value="0" />
+        <InKey Value="true" />
+        <SmpteFormat Value="0" />
+        <TimeSelection>
+            <AnchorTime Value="176" />
+            <OtherTime Value="176" />
+        </TimeSelection>
+        <SequencerNavigator>
+            <BeatTimeHelper>
+                <CurrentZoom Value="0.254945054945054927" />
+            </BeatTimeHelper>
+            <ScrollerPos X="0" Y="0" />
+            <ClientSize X="1232" Y="508" />
+        </SequencerNavigator>
+        <IsContentSplitterOpen Value="true" />
+        <IsExpressionSplitterOpen Value="true" />
+        <AutomationMode Value="false" />
+        <SnapAutomationToGrid Value="true" />
+        <ArrangementOverdub Value="false" />
+        <ColorSequenceIndex Value="214510196" />
+        <AutoColorPickerForPlayerAndGroupTracks>
+            <NextColorIndex Value="2" />
+        </AutoColorPickerForPlayerAndGroupTracks>
+        <AutoColorPickerForReturnAndMainTracks>
+            <NextColorIndex Value="11" />
+        </AutoColorPickerForReturnAndMainTracks>
+        <ViewData Value="{}" />
+        <ResetNonautomatedMidiControllersOnClipStarts Value="true" />
+        <MidiFoldIn Value="false" />
+        <MidiFoldMode Value="-99" />
+        <MultiClipFocusMode Value="false" />
+        <MultiClipLoopBarHeight Value="0" />
+        <MidiPrelisten Value="false" />
+        <LinkedTrackGroups />
+        <NoteSpellingPreference Value="0" />
+        <AccidentalSpellingPreference Value="3" />
+        <PreferFlatRootNote Value="false" />
+        <UseWarperLegacyHiQMode Value="false" />
+        <VideoWindowRect Top="-2147483648" Left="-2147483648" Bottom="-2147483648" Right="-2147483648" />
+        <ShowVideoWindow Value="true" />
+        <TuningSystems />
+        <TrackHeaderWidth Value="93" />
+        <ViewStateMainWindowClipDetailOpen Value="true" />
+        <ViewStateMainWindowHiddenOtherDocViewTypeClipDetailOpen Value="false" />
+        <ViewStateMainWindowHiddenOtherDocViewTypeDeviceDetailOpen Value="true" />
+        <ViewStateMainWindowDeviceDetailOpen Value="false" />
+        <ViewStateSecondWindowClipDetailOpen Value="false" />
+        <ViewStateSecondWindowDeviceDetailOpen Value="true" />
+        <ViewStates>
+            <MixerInArrangement Value="0" />
+            <ArrangerMixerIO Value="1" />
+            <ArrangerMixerSends Value="1" />
+            <ArrangerMixerReturns Value="1" />
+            <ArrangerMixerVolume Value="1" />
+            <ArrangerMixerTrackOptions Value="0" />
+            <ArrangerMixerCrossFade Value="0" />
+            <ArrangerMixerTrackPerformanceImpactMeter Value="0" />
+            <MixerInSession Value="1" />
+            <SessionIO Value="1" />
+            <SessionSends Value="1" />
+            <SessionReturns Value="1" />
+            <SessionVolume Value="1" />
+            <SessionTrackOptions Value="0" />
+            <SessionCrossFade Value="0" />
+            <SessionTrackPerformanceImpactMeter Value="0" />
+            <SessionShowOverView Value="0" />
+            <ArrangerIO Value="1" />
+            <ArrangerReturns Value="1" />
+            <ArrangerVolume Value="1" />
+            <ArrangerTrackOptions Value="0" />
+            <ArrangerShowOverView Value="1" />
+        </ViewStates>
+        <NoteAlgorithms>
+            <ArpeggiateAlgorithm Id="0">
+                <NamedKeyMidiRemoteables>
+                    <NamedRemoteableKeyMidi Id="15" Name="Rate" />
+                    <NamedRemoteableKeyMidi Id="16" Name="Steps" />
+                    <NamedRemoteableKeyMidi Id="17" Name="Distance" />
+                    <NamedRemoteableKeyMidi Id="18" Name="Gate" />
+                    <NamedRemoteableKeyMidi Id="19" Name="Style" />
+                </NamedKeyMidiRemoteables>
+                <Rate Value="10" />
+                <Steps Value="2" />
+                <Distance Value="12" />
+                <Gate Value="1" />
+                <Style Value="0" />
+            </ArpeggiateAlgorithm>
+            <SpanAlgorithm Id="1">
+                <NamedKeyMidiRemoteables>
+                    <NamedRemoteableKeyMidi Id="9" Name="Mode" />
+                    <NamedRemoteableKeyMidi Id="10" Name="LengthVariation" />
+                    <NamedRemoteableKeyMidi Id="11" Name="LengthOffset" />
+                </NamedKeyMidiRemoteables>
+                <Mode Value="1" />
+                <ChordThreshold Value="10" />
+                <LengthVariation Value="0" />
+                <LengthOffset Value="0" />
+            </SpanAlgorithm>
+            <RecombineAlgorithm Id="4">
+                <PermutedDimension Value="0" />
+                <Shuffle Value="false" />
+                <Mirror Value="false" />
+                <RotateAmount Value="0" />
+                <RotateOnGrid Value="false" />
+            </RecombineAlgorithm>
+            <QuantizeAlgorithm Id="5">
+                <NamedKeyMidiRemoteables>
+                    <NamedRemoteableKeyMidi Id="15" Name="TripletReference" />
+                    <NamedRemoteableKeyMidi Id="16" Name="QuantizeReference" />
+                    <NamedRemoteableKeyMidi Id="17" Name="Amount" />
+                    <NamedRemoteableKeyMidi Id="18" Name="QuantizeNoteStarts" />
+                    <NamedRemoteableKeyMidi Id="19" Name="QuantizeNoteEnds" />
+                </NamedKeyMidiRemoteables>
+                <Reference Value="0" />
+                <TripletReference Value="false" />
+                <QuantizeNoteStarts Value="true" />
+                <QuantizeNoteEnds Value="false" />
+                <Amount Value="100" />
+            </QuantizeAlgorithm>
+            <StrumAlgorithm Id="6">
+                <NamedKeyMidiRemoteables>
+                    <NamedRemoteableKeyMidi Id="12" Name="Threshold" />
+                    <NamedRemoteableKeyMidi Id="13" Name="Low" />
+                    <NamedRemoteableKeyMidi Id="14" Name="High" />
+                    <NamedRemoteableKeyMidi Id="15" Name="Tension" />
+                </NamedKeyMidiRemoteables>
+                <NamedKeyMidiRemoteables>
+                    <NamedRemoteableKeyMidi Id="12" Name="Threshold" />
+                    <NamedRemoteableKeyMidi Id="13" Name="Low" />
+                    <NamedRemoteableKeyMidi Id="14" Name="High" />
+                    <NamedRemoteableKeyMidi Id="15" Name="Tension" />
+                </NamedKeyMidiRemoteables>
+                <NamedKeyMidiRemoteables>
+                    <NamedRemoteableKeyMidi Id="12" Name="Threshold" />
+                    <NamedRemoteableKeyMidi Id="13" Name="Low" />
+                    <NamedRemoteableKeyMidi Id="14" Name="High" />
+                    <NamedRemoteableKeyMidi Id="15" Name="Tension" />
+                </NamedKeyMidiRemoteables>
+                <ChordThreshold Value="0" />
+                <StrumLow Value="0" />
+                <StrumHigh Value="0" />
+                <TensionAmount Value="0" />
+            </StrumAlgorithm>
+            <PitchFilterAlgorithm Id="12">
+                <NamedKeyMidiRemoteables />
+                <DrumPad Value="128" />
+                <Invert Value="false" />
+            </PitchFilterAlgorithm>
+            <TimeFilterAlgorithm Id="13">
+                <NamedKeyMidiRemoteables />
+                <Start Value="0" />
+                <Length Value="0.25" />
+                <Repeat Value="0" />
+                <Invert Value="false" />
+            </TimeFilterAlgorithm>
+        </NoteAlgorithms>
+    </LiveSet>
+</Ableton>

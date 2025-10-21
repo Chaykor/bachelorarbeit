@@ -1,0 +1,3754 @@
+{
+  "Ableton": {
+    "LiveSet": {
+      "NextPointeeId": {
+        "_Value": "22445"
+      },
+      "OverwriteProtectionNumber": {
+        "_Value": "3073"
+      },
+      "LomId": {
+        "_Value": "0"
+      },
+      "LomIdView": {
+        "_Value": "0"
+      },
+      "Tracks": {
+        "MidiTrack": {
+          "LomId": {
+            "_Value": "0"
+          },
+          "LomIdView": {
+            "_Value": "0"
+          },
+          "IsContentSelectedInDocument": {
+            "_Value": "false"
+          },
+          "PreferredContentViewMode": {
+            "_Value": "0"
+          },
+          "TrackDelay": {
+            "Value": {
+              "_Value": "0"
+            },
+            "IsValueSampleBased": {
+              "_Value": "false"
+            }
+          },
+          "Name": {
+            "EffectiveName": {
+              "_Value": "1-MIDI"
+            },
+            "UserName": {
+              "_Value": ""
+            },
+            "Annotation": {
+              "_Value": ""
+            },
+            "MemorizedFirstClipName": {
+              "_Value": ""
+            }
+          },
+          "Color": {
+            "_Value": "16"
+          },
+          "AutomationEnvelopes": {
+            "Envelopes": ""
+          },
+          "TrackGroupId": {
+            "_Value": "-1"
+          },
+          "TrackUnfolded": {
+            "_Value": "true"
+          },
+          "DevicesListWrapper": {
+            "_LomId": "0"
+          },
+          "ClipSlotsListWrapper": {
+            "_LomId": "0"
+          },
+          "ArrangementClipsListWrapper": {
+            "_LomId": "0"
+          },
+          "ViewData": {
+            "_Value": "{\"push-selected-note-mode\": \"play\", \"push-instrument-selected-notes\": [36], \"push-note-repeat-rate\": 0.5, \"push-note-repeat-enabled\": false}"
+          },
+          "TakeLanes": {
+            "TakeLanes": "",
+            "AreTakeLanesFolded": {
+              "_Value": "true"
+            }
+          },
+          "LinkedTrackGroupId": {
+            "_Value": "-1"
+          },
+          "SavedPlayingSlot": {
+            "_Value": "-1"
+          },
+          "SavedPlayingOffset": {
+            "_Value": "0"
+          },
+          "Freeze": {
+            "_Value": "false"
+          },
+          "NeedArrangerRefreeze": {
+            "_Value": "true"
+          },
+          "PostProcessFreezeClips": {
+            "_Value": "0"
+          },
+          "DeviceChain": {
+            "AutomationLanes": {
+              "AutomationLanes": {
+                "AutomationLane": {
+                  "SelectedDevice": {
+                    "_Value": "1"
+                  },
+                  "SelectedEnvelope": {
+                    "_Value": "0"
+                  },
+                  "IsContentSelectedInDocument": {
+                    "_Value": "false"
+                  },
+                  "LaneHeight": {
+                    "_Value": "68"
+                  },
+                  "_Id": "0"
+                }
+              },
+              "AreAdditionalAutomationLanesFolded": {
+                "_Value": "false"
+              }
+            },
+            "ClipEnvelopeChooserViewState": {
+              "SelectedDevice": {
+                "_Value": "1"
+              },
+              "SelectedEnvelope": {
+                "_Value": "0"
+              },
+              "PreferModulationVisible": {
+                "_Value": "false"
+              }
+            },
+            "AudioInputRouting": {
+              "Target": {
+                "_Value": "AudioIn/External/S0"
+              },
+              "UpperDisplayString": {
+                "_Value": "Ext. In"
+              },
+              "LowerDisplayString": {
+                "_Value": "1/2"
+              },
+              "MpeSettings": {
+                "ZoneType": {
+                  "_Value": "0"
+                },
+                "FirstNoteChannel": {
+                  "_Value": "1"
+                },
+                "LastNoteChannel": {
+                  "_Value": "15"
+                }
+              },
+              "MpePitchBendUsesTuning": {
+                "_Value": "true"
+              }
+            },
+            "MidiInputRouting": {
+              "Target": {
+                "_Value": "MidiIn/External.All/-1"
+              },
+              "UpperDisplayString": {
+                "_Value": "Ext: All Ins"
+              },
+              "LowerDisplayString": {
+                "_Value": ""
+              },
+              "MpeSettings": {
+                "ZoneType": {
+                  "_Value": "0"
+                },
+                "FirstNoteChannel": {
+                  "_Value": "1"
+                },
+                "LastNoteChannel": {
+                  "_Value": "15"
+                }
+              },
+              "MpePitchBendUsesTuning": {
+                "_Value": "true"
+              }
+            },
+            "AudioOutputRouting": {
+              "Target": {
+                "_Value": "AudioOut/Main"
+              },
+              "UpperDisplayString": {
+                "_Value": "Master"
+              },
+              "LowerDisplayString": {
+                "_Value": ""
+              },
+              "MpeSettings": {
+                "ZoneType": {
+                  "_Value": "0"
+                },
+                "FirstNoteChannel": {
+                  "_Value": "1"
+                },
+                "LastNoteChannel": {
+                  "_Value": "15"
+                }
+              },
+              "MpePitchBendUsesTuning": {
+                "_Value": "true"
+              }
+            },
+            "MidiOutputRouting": {
+              "Target": {
+                "_Value": "MidiOut/None"
+              },
+              "UpperDisplayString": {
+                "_Value": "None"
+              },
+              "LowerDisplayString": {
+                "_Value": ""
+              },
+              "MpeSettings": {
+                "ZoneType": {
+                  "_Value": "0"
+                },
+                "FirstNoteChannel": {
+                  "_Value": "1"
+                },
+                "LastNoteChannel": {
+                  "_Value": "15"
+                }
+              },
+              "MpePitchBendUsesTuning": {
+                "_Value": "true"
+              }
+            },
+            "Mixer": {
+              "LomId": {
+                "_Value": "0"
+              },
+              "LomIdView": {
+                "_Value": "0"
+              },
+              "IsExpanded": {
+                "_Value": "true"
+              },
+              "BreakoutIsExpanded": {
+                "_Value": "false"
+              },
+              "On": {
+                "LomId": {
+                  "_Value": "0"
+                },
+                "Manual": {
+                  "_Value": "true"
+                },
+                "AutomationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15830"
+                },
+                "MidiCCOnOffThresholds": {
+                  "Min": {
+                    "_Value": "64"
+                  },
+                  "Max": {
+                    "_Value": "127"
+                  }
+                }
+              },
+              "ModulationSourceCount": {
+                "_Value": "0"
+              },
+              "ParametersListWrapper": {
+                "_LomId": "0"
+              },
+              "Pointee": {
+                "_Id": "19712"
+              },
+              "LastSelectedTimeableIndex": {
+                "_Value": "0"
+              },
+              "LastSelectedClipEnvelopeIndex": {
+                "_Value": "0"
+              },
+              "LastPresetRef": {
+                "Value": ""
+              },
+              "LockedScripts": "",
+              "IsFolded": {
+                "_Value": "false"
+              },
+              "ShouldShowPresetName": {
+                "_Value": "false"
+              },
+              "UserName": {
+                "_Value": ""
+              },
+              "Annotation": {
+                "_Value": ""
+              },
+              "SourceContext": {
+                "Value": ""
+              },
+              "MpePitchBendUsesTuning": {
+                "_Value": "true"
+              },
+              "Sends": {
+                "TrackSendHolder": [
+                  {
+                    "Send": {
+                      "LomId": {
+                        "_Value": "0"
+                      },
+                      "Manual": {
+                        "_Value": "0.0003162277571"
+                      },
+                      "MidiControllerRange": {
+                        "Min": {
+                          "_Value": "0.0003162277571"
+                        },
+                        "Max": {
+                          "_Value": "1"
+                        }
+                      },
+                      "AutomationTarget": {
+                        "LockEnvelope": {
+                          "_Value": "0"
+                        },
+                        "_Id": "15831"
+                      },
+                      "ModulationTarget": {
+                        "LockEnvelope": {
+                          "_Value": "0"
+                        },
+                        "_Id": "15832"
+                      }
+                    },
+                    "EnabledByUser": {
+                      "_Value": "true"
+                    },
+                    "_Id": "0"
+                  },
+                  {
+                    "Send": {
+                      "LomId": {
+                        "_Value": "0"
+                      },
+                      "Manual": {
+                        "_Value": "0.0003162277571"
+                      },
+                      "MidiControllerRange": {
+                        "Min": {
+                          "_Value": "0.0003162277571"
+                        },
+                        "Max": {
+                          "_Value": "1"
+                        }
+                      },
+                      "AutomationTarget": {
+                        "LockEnvelope": {
+                          "_Value": "0"
+                        },
+                        "_Id": "15833"
+                      },
+                      "ModulationTarget": {
+                        "LockEnvelope": {
+                          "_Value": "0"
+                        },
+                        "_Id": "15834"
+                      }
+                    },
+                    "EnabledByUser": {
+                      "_Value": "true"
+                    },
+                    "_Id": "1"
+                  }
+                ]
+              },
+              "Speaker": {
+                "LomId": {
+                  "_Value": "0"
+                },
+                "Manual": {
+                  "_Value": "true"
+                },
+                "AutomationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15835"
+                },
+                "MidiCCOnOffThresholds": {
+                  "Min": {
+                    "_Value": "64"
+                  },
+                  "Max": {
+                    "_Value": "127"
+                  }
+                }
+              },
+              "SoloSink": {
+                "_Value": "false"
+              },
+              "PanMode": {
+                "_Value": "0"
+              },
+              "Pan": {
+                "LomId": {
+                  "_Value": "0"
+                },
+                "Manual": {
+                  "_Value": "0"
+                },
+                "MidiControllerRange": {
+                  "Min": {
+                    "_Value": "-1"
+                  },
+                  "Max": {
+                    "_Value": "1"
+                  }
+                },
+                "AutomationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15836"
+                },
+                "ModulationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15837"
+                }
+              },
+              "SplitStereoPanL": {
+                "LomId": {
+                  "_Value": "0"
+                },
+                "Manual": {
+                  "_Value": "-1"
+                },
+                "MidiControllerRange": {
+                  "Min": {
+                    "_Value": "-1"
+                  },
+                  "Max": {
+                    "_Value": "1"
+                  }
+                },
+                "AutomationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "16151"
+                },
+                "ModulationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "16152"
+                }
+              },
+              "SplitStereoPanR": {
+                "LomId": {
+                  "_Value": "0"
+                },
+                "Manual": {
+                  "_Value": "1"
+                },
+                "MidiControllerRange": {
+                  "Min": {
+                    "_Value": "-1"
+                  },
+                  "Max": {
+                    "_Value": "1"
+                  }
+                },
+                "AutomationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "16153"
+                },
+                "ModulationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "16154"
+                }
+              },
+              "Volume": {
+                "LomId": {
+                  "_Value": "0"
+                },
+                "Manual": {
+                  "_Value": "1"
+                },
+                "MidiControllerRange": {
+                  "Min": {
+                    "_Value": "0.0003162277571"
+                  },
+                  "Max": {
+                    "_Value": "1.99526238"
+                  }
+                },
+                "AutomationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15838"
+                },
+                "ModulationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15839"
+                }
+              },
+              "ViewStateSessionTrackWidth": {
+                "_Value": "93"
+              },
+              "CrossFadeState": {
+                "LomId": {
+                  "_Value": "0"
+                },
+                "Manual": {
+                  "_Value": "1"
+                },
+                "AutomationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15840"
+                }
+              },
+              "SendsListWrapper": {
+                "_LomId": "0"
+              }
+            },
+            "MainSequencer": {
+              "LomId": {
+                "_Value": "0"
+              },
+              "LomIdView": {
+                "_Value": "0"
+              },
+              "IsExpanded": {
+                "_Value": "true"
+              },
+              "BreakoutIsExpanded": {
+                "_Value": "false"
+              },
+              "On": {
+                "LomId": {
+                  "_Value": "0"
+                },
+                "Manual": {
+                  "_Value": "true"
+                },
+                "AutomationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15841"
+                },
+                "MidiCCOnOffThresholds": {
+                  "Min": {
+                    "_Value": "64"
+                  },
+                  "Max": {
+                    "_Value": "127"
+                  }
+                }
+              },
+              "ModulationSourceCount": {
+                "_Value": "0"
+              },
+              "ParametersListWrapper": {
+                "_LomId": "0"
+              },
+              "Pointee": {
+                "_Id": "19713"
+              },
+              "LastSelectedTimeableIndex": {
+                "_Value": "0"
+              },
+              "LastSelectedClipEnvelopeIndex": {
+                "_Value": "0"
+              },
+              "LastPresetRef": {
+                "Value": ""
+              },
+              "LockedScripts": "",
+              "IsFolded": {
+                "_Value": "false"
+              },
+              "ShouldShowPresetName": {
+                "_Value": "false"
+              },
+              "UserName": {
+                "_Value": ""
+              },
+              "Annotation": {
+                "_Value": ""
+              },
+              "SourceContext": {
+                "Value": ""
+              },
+              "MpePitchBendUsesTuning": {
+                "_Value": "true"
+              },
+              "ClipSlotList": {
+                "ClipSlot": [
+                  {
+                    "LomId": {
+                      "_Value": "0"
+                    },
+                    "ClipSlot": {
+                      "Value": ""
+                    },
+                    "HasStop": {
+                      "_Value": "true"
+                    },
+                    "NeedRefreeze": {
+                      "_Value": "true"
+                    },
+                    "_Id": "0"
+                  },
+                  {
+                    "LomId": {
+                      "_Value": "0"
+                    },
+                    "ClipSlot": {
+                      "Value": ""
+                    },
+                    "HasStop": {
+                      "_Value": "true"
+                    },
+                    "NeedRefreeze": {
+                      "_Value": "true"
+                    },
+                    "_Id": "1"
+                  },
+                  {
+                    "LomId": {
+                      "_Value": "0"
+                    },
+                    "ClipSlot": {
+                      "Value": ""
+                    },
+                    "HasStop": {
+                      "_Value": "true"
+                    },
+                    "NeedRefreeze": {
+                      "_Value": "true"
+                    },
+                    "_Id": "2"
+                  },
+                  {
+                    "LomId": {
+                      "_Value": "0"
+                    },
+                    "ClipSlot": {
+                      "Value": ""
+                    },
+                    "HasStop": {
+                      "_Value": "true"
+                    },
+                    "NeedRefreeze": {
+                      "_Value": "true"
+                    },
+                    "_Id": "3"
+                  },
+                  {
+                    "LomId": {
+                      "_Value": "0"
+                    },
+                    "ClipSlot": {
+                      "Value": ""
+                    },
+                    "HasStop": {
+                      "_Value": "true"
+                    },
+                    "NeedRefreeze": {
+                      "_Value": "true"
+                    },
+                    "_Id": "4"
+                  },
+                  {
+                    "LomId": {
+                      "_Value": "0"
+                    },
+                    "ClipSlot": {
+                      "Value": ""
+                    },
+                    "HasStop": {
+                      "_Value": "true"
+                    },
+                    "NeedRefreeze": {
+                      "_Value": "true"
+                    },
+                    "_Id": "5"
+                  },
+                  {
+                    "LomId": {
+                      "_Value": "0"
+                    },
+                    "ClipSlot": {
+                      "Value": ""
+                    },
+                    "HasStop": {
+                      "_Value": "true"
+                    },
+                    "NeedRefreeze": {
+                      "_Value": "true"
+                    },
+                    "_Id": "6"
+                  },
+                  {
+                    "LomId": {
+                      "_Value": "0"
+                    },
+                    "ClipSlot": {
+                      "Value": ""
+                    },
+                    "HasStop": {
+                      "_Value": "true"
+                    },
+                    "NeedRefreeze": {
+                      "_Value": "true"
+                    },
+                    "_Id": "7"
+                  }
+                ]
+              },
+              "MonitoringEnum": {
+                "_Value": "1"
+              },
+              "KeepRecordMonitoringLatency": {
+                "_Value": "true"
+              },
+              "ClipTimeable": {
+                "ArrangerAutomation": {
+                  "Events": "",
+                  "AutomationTransformViewState": {
+                    "IsTransformPending": {
+                      "_Value": "false"
+                    },
+                    "TimeAndValueTransforms": ""
+                  }
+                }
+              },
+              "Recorder": {
+                "IsArmed": {
+                  "_Value": "false"
+                },
+                "TakeCounter": {
+                  "_Value": "0"
+                }
+              },
+              "MidiControllers": {
+                "ControllerTargets.0": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15842"
+                },
+                "ControllerTargets.1": {
+                  "LockEnvelope": {
+                    "_Value": "1"
+                  },
+                  "_Id": "15843"
+                },
+                "ControllerTargets.2": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15844"
+                },
+                "ControllerTargets.3": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15845"
+                },
+                "ControllerTargets.4": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15846"
+                },
+                "ControllerTargets.5": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15847"
+                },
+                "ControllerTargets.6": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15848"
+                },
+                "ControllerTargets.7": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15849"
+                },
+                "ControllerTargets.8": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15850"
+                },
+                "ControllerTargets.9": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15851"
+                },
+                "ControllerTargets.10": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15852"
+                },
+                "ControllerTargets.11": {
+                  "LockEnvelope": {
+                    "_Value": "1"
+                  },
+                  "_Id": "15853"
+                },
+                "ControllerTargets.12": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15854"
+                },
+                "ControllerTargets.13": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15855"
+                },
+                "ControllerTargets.14": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15856"
+                },
+                "ControllerTargets.15": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15857"
+                },
+                "ControllerTargets.16": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15858"
+                },
+                "ControllerTargets.17": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15859"
+                },
+                "ControllerTargets.18": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15860"
+                },
+                "ControllerTargets.19": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15861"
+                },
+                "ControllerTargets.20": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15862"
+                },
+                "ControllerTargets.21": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15863"
+                },
+                "ControllerTargets.22": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15864"
+                },
+                "ControllerTargets.23": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15865"
+                },
+                "ControllerTargets.24": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15866"
+                },
+                "ControllerTargets.25": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15867"
+                },
+                "ControllerTargets.26": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15868"
+                },
+                "ControllerTargets.27": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15869"
+                },
+                "ControllerTargets.28": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15870"
+                },
+                "ControllerTargets.29": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15871"
+                },
+                "ControllerTargets.30": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15872"
+                },
+                "ControllerTargets.31": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15873"
+                },
+                "ControllerTargets.32": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15874"
+                },
+                "ControllerTargets.33": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15875"
+                },
+                "ControllerTargets.34": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15876"
+                },
+                "ControllerTargets.35": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15877"
+                },
+                "ControllerTargets.36": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15878"
+                },
+                "ControllerTargets.37": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15879"
+                },
+                "ControllerTargets.38": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15880"
+                },
+                "ControllerTargets.39": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15881"
+                },
+                "ControllerTargets.40": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15882"
+                },
+                "ControllerTargets.41": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15883"
+                },
+                "ControllerTargets.42": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15884"
+                },
+                "ControllerTargets.43": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15885"
+                },
+                "ControllerTargets.44": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15886"
+                },
+                "ControllerTargets.45": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15887"
+                },
+                "ControllerTargets.46": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15888"
+                },
+                "ControllerTargets.47": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15889"
+                },
+                "ControllerTargets.48": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15890"
+                },
+                "ControllerTargets.49": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15891"
+                },
+                "ControllerTargets.50": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15892"
+                },
+                "ControllerTargets.51": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15893"
+                },
+                "ControllerTargets.52": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15894"
+                },
+                "ControllerTargets.53": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15895"
+                },
+                "ControllerTargets.54": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15896"
+                },
+                "ControllerTargets.55": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15897"
+                },
+                "ControllerTargets.56": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15898"
+                },
+                "ControllerTargets.57": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15899"
+                },
+                "ControllerTargets.58": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15900"
+                },
+                "ControllerTargets.59": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15901"
+                },
+                "ControllerTargets.60": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15902"
+                },
+                "ControllerTargets.61": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15903"
+                },
+                "ControllerTargets.62": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15904"
+                },
+                "ControllerTargets.63": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15905"
+                },
+                "ControllerTargets.64": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15906"
+                },
+                "ControllerTargets.65": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15907"
+                },
+                "ControllerTargets.66": {
+                  "LockEnvelope": {
+                    "_Value": "1"
+                  },
+                  "_Id": "15908"
+                },
+                "ControllerTargets.67": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15909"
+                },
+                "ControllerTargets.68": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15910"
+                },
+                "ControllerTargets.69": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15911"
+                },
+                "ControllerTargets.70": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15912"
+                },
+                "ControllerTargets.71": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15913"
+                },
+                "ControllerTargets.72": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15914"
+                },
+                "ControllerTargets.73": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15915"
+                },
+                "ControllerTargets.74": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15916"
+                },
+                "ControllerTargets.75": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15917"
+                },
+                "ControllerTargets.76": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15918"
+                },
+                "ControllerTargets.77": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15919"
+                },
+                "ControllerTargets.78": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15920"
+                },
+                "ControllerTargets.79": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15921"
+                },
+                "ControllerTargets.80": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15922"
+                },
+                "ControllerTargets.81": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15923"
+                },
+                "ControllerTargets.82": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15924"
+                },
+                "ControllerTargets.83": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15925"
+                },
+                "ControllerTargets.84": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15926"
+                },
+                "ControllerTargets.85": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15927"
+                },
+                "ControllerTargets.86": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15928"
+                },
+                "ControllerTargets.87": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15929"
+                },
+                "ControllerTargets.88": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15930"
+                },
+                "ControllerTargets.89": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15931"
+                },
+                "ControllerTargets.90": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15932"
+                },
+                "ControllerTargets.91": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15933"
+                },
+                "ControllerTargets.92": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15934"
+                },
+                "ControllerTargets.93": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15935"
+                },
+                "ControllerTargets.94": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15936"
+                },
+                "ControllerTargets.95": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15937"
+                },
+                "ControllerTargets.96": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15938"
+                },
+                "ControllerTargets.97": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15939"
+                },
+                "ControllerTargets.98": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15940"
+                },
+                "ControllerTargets.99": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15941"
+                },
+                "ControllerTargets.100": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15942"
+                },
+                "ControllerTargets.101": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15943"
+                },
+                "ControllerTargets.102": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15944"
+                },
+                "ControllerTargets.103": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15945"
+                },
+                "ControllerTargets.104": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15946"
+                },
+                "ControllerTargets.105": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15947"
+                },
+                "ControllerTargets.106": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15948"
+                },
+                "ControllerTargets.107": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15949"
+                },
+                "ControllerTargets.108": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15950"
+                },
+                "ControllerTargets.109": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15951"
+                },
+                "ControllerTargets.110": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15952"
+                },
+                "ControllerTargets.111": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15953"
+                },
+                "ControllerTargets.112": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15954"
+                },
+                "ControllerTargets.113": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15955"
+                },
+                "ControllerTargets.114": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15956"
+                },
+                "ControllerTargets.115": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15957"
+                },
+                "ControllerTargets.116": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15958"
+                },
+                "ControllerTargets.117": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15959"
+                },
+                "ControllerTargets.118": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15960"
+                },
+                "ControllerTargets.119": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15961"
+                },
+                "ControllerTargets.120": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15962"
+                },
+                "ControllerTargets.121": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15963"
+                },
+                "ControllerTargets.122": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15964"
+                },
+                "ControllerTargets.123": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15965"
+                },
+                "ControllerTargets.124": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15966"
+                },
+                "ControllerTargets.125": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15967"
+                },
+                "ControllerTargets.126": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15968"
+                },
+                "ControllerTargets.127": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15969"
+                },
+                "ControllerTargets.128": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15970"
+                },
+                "ControllerTargets.129": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15971"
+                },
+                "ControllerTargets.130": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15972"
+                }
+              }
+            },
+            "FreezeSequencer": {
+              "LomId": {
+                "_Value": "0"
+              },
+              "LomIdView": {
+                "_Value": "0"
+              },
+              "IsExpanded": {
+                "_Value": "true"
+              },
+              "BreakoutIsExpanded": {
+                "_Value": "false"
+              },
+              "On": {
+                "LomId": {
+                  "_Value": "0"
+                },
+                "Manual": {
+                  "_Value": "true"
+                },
+                "AutomationTarget": {
+                  "LockEnvelope": {
+                    "_Value": "0"
+                  },
+                  "_Id": "15973"
+                },
+                "MidiCCOnOffThresholds": {
+                  "Min": {
+                    "_Value": "64"
+                  },
+                  "Max": {
+                    "_Value": "127"
+                  }
+                }
+              },
+              "ModulationSourceCount": {
+                "_Value": "0"
+              },
+              "ParametersListWrapper": {
+                "_LomId": "0"
+              },
+              "Pointee": {
+                "_Id": "19714"
+              },
+              "LastSelectedTimeableIndex": {
+                "_Value": "0"
+              },
+              "LastSelectedClipEnvelopeIndex": {
+                "_Value": "0"
+              },
+              "LastPresetRef": {
+                "Value": ""
+              },
+              "LockedScripts": "",
+              "IsFolded": {
+                "_Value": "false"
+              },
+              "ShouldShowPresetName": {
+                "_Value": "false"
+              },
+              "UserName": {
+                "_Value": ""
+              },
+              "Annotation": {
+                "_Value": ""
+              },
+              "SourceContext": {
+                "Value": ""
+              },
+              "MpePitchBendUsesTuning": {
+                "_Value": "true"
+              },
+              "ClipSlotList": {
+                "ClipSlot": [
+                  {
+                    "LomId": {
+                      "_Value": "0"
+                    },
+                    "ClipSlot": {
+                      "Value": ""
+                    },
+                    "HasStop": {
+                      "_Value": "true"
+                    },
+                    "NeedRefreeze": {
+                      "_Value": "true"
+                    },
+                    "_Id": "0"
+                  },
+                  {
+                    "LomId": {
+                      "_Value": "0"
+                    },
+                    "ClipSlot": {
+                      "Value": ""
+                    },
+                    "HasStop": {
+                      "_Value": "true"
+                    },
+                    "NeedRefreeze": {
+                      "_Value": "true"
+                    },
+                    "_Id": "1"
+                  },
+                  {
+                    "LomId": {
+                      "_Value": "0"
+                    },
+                    "ClipSlot": {
+                      "Value": ""
+                    },
+                    "HasStop": {
+                      "_Value": "true"
+                    },
+                    "NeedRefreeze": {
+                      "_Value": "true"
+                    },
+                    "_Id": "2"
+                  },
+                  {
+                    "LomId": {
+                      "_Value": "0"
+                    },
+                    "ClipSlot": {
+                      "Value": ""
+                    },
+                    "HasStop": {
+                      "_Value": "true"
+                    },
+                    "NeedRefreeze": {
+                      "_Value": "true"
+                    },
+                    "_Id": "3"
+                  },
+                  {
+                    "LomId": {
+                      "_Value": "0"
+                    },
+                    "ClipSlot": {
+                      "Value": ""
+                    },
+                    "HasStop": {
+                      "_Value": "true"
+                    },
+                    "NeedRefreeze": {
+                      "_Value": "true"
+                    },
+                    "_Id": "4"
+                  },
+                  {
+                    "LomId": {
+                      "_Value": "0"
+                    },
+                    "ClipSlot": {
+                      "Value": ""
+                    },
+                    "HasStop": {
+                      "_Value": "true"
+                    },
+                    "NeedRefreeze": {
+                      "_Value": "true"
+                    },
+                    "_Id": "5"
+                  },
+                  {
+                    "LomId": {
+                      "_Value": "0"
+                    },
+                    "ClipSlot": {
+                      "Value": ""
+                    },
+                    "HasStop": {
+                      "_Value": "true"
+                    },
+                    "NeedRefreeze": {
+                      "_Value": "true"
+                    },
+                    "_Id": "6"
+                  },
+                  {
+                    "LomId": {
+                      "_Value": "0"
+                    },
+                    "ClipSlot": {
+                      "Value": ""
+                    },
+                    "HasStop": {
+                      "_Value": "true"
+                    },
+                    "NeedRefreeze": {
+                      "_Value": "true"
+                    },
+                    "_Id": "7"
+                  }
+                ]
+              },
+              "MonitoringEnum": {
+                "_Value": "1"
+              },
+              "KeepRecordMonitoringLatency": {
+                "_Value": "true"
+              },
+              "Sample": {
+                "ArrangerAutomation": {
+                  "Events": "",
+                  "AutomationTransformViewState": {
+                    "IsTransformPending": {
+                      "_Value": "false"
+                    },
+                    "TimeAndValueTransforms": ""
+                  }
+                }
+              },
+              "VolumeModulationTarget": {
+                "LockEnvelope": {
+                  "_Value": "0"
+                },
+                "_Id": "15974"
+              },
+              "TranspositionModulationTarget": {
+                "LockEnvelope": {
+                  "_Value": "0"
+                },
+                "_Id": "15975"
+              },
+              "TransientEnvelopeModulationTarget": {
+                "LockEnvelope": {
+                  "_Value": "0"
+                },
+                "_Id": "22153"
+              },
+              "GrainSizeModulationTarget": {
+                "LockEnvelope": {
+                  "_Value": "0"
+                },
+                "_Id": "15976"
+              },
+              "FluxModulationTarget": {
+                "LockEnvelope": {
+                  "_Value": "0"
+                },
+                "_Id": "15977"
+              },
+              "SampleOffsetModulationTarget": {
+                "LockEnvelope": {
+                  "_Value": "0"
+                },
+                "_Id": "15978"
+              },
+              "ComplexProFormantsModulationTarget": {
+                "LockEnvelope": {
+                  "_Value": "0"
+                },
+                "_Id": "22154"
+              },
+              "ComplexProEnvelopeModulationTarget": {
+                "LockEnvelope": {
+                  "_Value": "0"
+                },
+                "_Id": "22155"
+              },
+              "PitchViewScrollPosition": {
+                "_Value": "-1073741824"
+              },
+              "SampleOffsetModulationScrollPosition": {
+                "_Value": "-1073741824"
+              },
+              "Recorder": {
+                "IsArmed": {
+                  "_Value": "false"
+                },
+                "TakeCounter": {
+                  "_Value": "1"
+                }
+              }
+            },
+            "DeviceChain": {
+              "Devices": "",
+              "SignalModulations": ""
+            }
+          },
+          "ReWireDeviceMidiTargetId": {
+            "_Value": "0"
+          },
+          "PitchbendRange": {
+            "_Value": "96"
+          },
+          "IsTuned": {
+            "_Value": "true"
+          },
+          "ControllerLayoutRemoteable": {
+            "_Value": "0"
+          },
+          "ControllerLayoutCustomization": {
+            "PitchClassSource": {
+              "_Value": "0"
+            },
+            "OctaveSource": {
+              "_Value": "2"
+            },
+            "KeyNoteTarget": {
+              "_Value": "60"
+            },
+            "StepSize": {
+              "_Value": "1"
+            },
+            "OctaveEvery": {
+              "_Value": "12"
+            },
+            "AllowedKeys": {
+              "_Value": "0"
+            },
+            "FillerKeysMapTo": {
+              "_Value": "0"
+            }
+          },
+          "_Id": "12",
+          "_SelectedToolPanel": "7",
+          "_SelectedTransformationName": "",
+          "_SelectedGeneratorName": ""
+        }
+      },
+      "MainTrack": {
+        "LomId": {
+          "_Value": "0"
+        },
+        "LomIdView": {
+          "_Value": "0"
+        },
+        "IsContentSelectedInDocument": {
+          "_Value": "false"
+        },
+        "PreferredContentViewMode": {
+          "_Value": "0"
+        },
+        "TrackDelay": {
+          "Value": {
+            "_Value": "0"
+          },
+          "IsValueSampleBased": {
+            "_Value": "false"
+          }
+        },
+        "Name": {
+          "EffectiveName": {
+            "_Value": "Main"
+          },
+          "UserName": {
+            "_Value": ""
+          },
+          "Annotation": {
+            "_Value": ""
+          },
+          "MemorizedFirstClipName": {
+            "_Value": ""
+          }
+        },
+        "Color": {
+          "_Value": "1"
+        },
+        "ArrangementClipsListWrapper": {
+          "_LomId": "0"
+        },
+        "ViewData": {
+          "_Value": "{}"
+        },
+        "TakeLanes": {
+          "TakeLanes": "",
+          "AreTakeLanesFolded": {
+            "_Value": "true"
+          }
+        },
+        "LinkedTrackGroupId": {
+          "_Value": "-1"
+        },
+        "_SelectedToolPanel": "7",
+        "_SelectedTransformationName": "",
+        "_SelectedGeneratorName": ""
+      },
+      "SendsPre": {
+        "SendPreBool": [
+          {
+            "_Id": "0",
+            "_Value": "false"
+          },
+          {
+            "_Id": "1",
+            "_Value": "false"
+          }
+        ]
+      },
+      "Scenes": {
+        "Scene": [
+          {
+            "FollowAction": {
+              "FollowTime": {
+                "_Value": "4"
+              },
+              "IsLinked": {
+                "_Value": "true"
+              },
+              "LoopIterations": {
+                "_Value": "1"
+              },
+              "FollowActionA": {
+                "_Value": "4"
+              },
+              "FollowActionB": {
+                "_Value": "0"
+              },
+              "FollowChanceA": {
+                "_Value": "100"
+              },
+              "FollowChanceB": {
+                "_Value": "0"
+              },
+              "JumpIndexA": {
+                "_Value": "0"
+              },
+              "JumpIndexB": {
+                "_Value": "0"
+              },
+              "FollowActionEnabled": {
+                "_Value": "false"
+              }
+            },
+            "Name": {
+              "_Value": ""
+            },
+            "Annotation": {
+              "_Value": ""
+            },
+            "Color": {
+              "_Value": "-1"
+            },
+            "Tempo": {
+              "_Value": "120"
+            },
+            "IsTempoEnabled": {
+              "_Value": "false"
+            },
+            "TimeSignatureId": {
+              "_Value": "201"
+            },
+            "IsTimeSignatureEnabled": {
+              "_Value": "false"
+            },
+            "LomId": {
+              "_Value": "0"
+            },
+            "ClipSlotsListWrapper": {
+              "_LomId": "0"
+            },
+            "_Id": "0"
+          },
+          {
+            "FollowAction": {
+              "FollowTime": {
+                "_Value": "4"
+              },
+              "IsLinked": {
+                "_Value": "true"
+              },
+              "LoopIterations": {
+                "_Value": "1"
+              },
+              "FollowActionA": {
+                "_Value": "4"
+              },
+              "FollowActionB": {
+                "_Value": "0"
+              },
+              "FollowChanceA": {
+                "_Value": "100"
+              },
+              "FollowChanceB": {
+                "_Value": "0"
+              },
+              "JumpIndexA": {
+                "_Value": "0"
+              },
+              "JumpIndexB": {
+                "_Value": "0"
+              },
+              "FollowActionEnabled": {
+                "_Value": "false"
+              }
+            },
+            "Name": {
+              "_Value": ""
+            },
+            "Annotation": {
+              "_Value": ""
+            },
+            "Color": {
+              "_Value": "-1"
+            },
+            "Tempo": {
+              "_Value": "120"
+            },
+            "IsTempoEnabled": {
+              "_Value": "false"
+            },
+            "TimeSignatureId": {
+              "_Value": "201"
+            },
+            "IsTimeSignatureEnabled": {
+              "_Value": "false"
+            },
+            "LomId": {
+              "_Value": "0"
+            },
+            "ClipSlotsListWrapper": {
+              "_LomId": "0"
+            },
+            "_Id": "1"
+          },
+          {
+            "FollowAction": {
+              "FollowTime": {
+                "_Value": "4"
+              },
+              "IsLinked": {
+                "_Value": "true"
+              },
+              "LoopIterations": {
+                "_Value": "1"
+              },
+              "FollowActionA": {
+                "_Value": "4"
+              },
+              "FollowActionB": {
+                "_Value": "0"
+              },
+              "FollowChanceA": {
+                "_Value": "100"
+              },
+              "FollowChanceB": {
+                "_Value": "0"
+              },
+              "JumpIndexA": {
+                "_Value": "0"
+              },
+              "JumpIndexB": {
+                "_Value": "0"
+              },
+              "FollowActionEnabled": {
+                "_Value": "false"
+              }
+            },
+            "Name": {
+              "_Value": ""
+            },
+            "Annotation": {
+              "_Value": ""
+            },
+            "Color": {
+              "_Value": "-1"
+            },
+            "Tempo": {
+              "_Value": "120"
+            },
+            "IsTempoEnabled": {
+              "_Value": "false"
+            },
+            "TimeSignatureId": {
+              "_Value": "201"
+            },
+            "IsTimeSignatureEnabled": {
+              "_Value": "false"
+            },
+            "LomId": {
+              "_Value": "0"
+            },
+            "ClipSlotsListWrapper": {
+              "_LomId": "0"
+            },
+            "_Id": "2"
+          },
+          {
+            "FollowAction": {
+              "FollowTime": {
+                "_Value": "4"
+              },
+              "IsLinked": {
+                "_Value": "true"
+              },
+              "LoopIterations": {
+                "_Value": "1"
+              },
+              "FollowActionA": {
+                "_Value": "4"
+              },
+              "FollowActionB": {
+                "_Value": "0"
+              },
+              "FollowChanceA": {
+                "_Value": "100"
+              },
+              "FollowChanceB": {
+                "_Value": "0"
+              },
+              "JumpIndexA": {
+                "_Value": "0"
+              },
+              "JumpIndexB": {
+                "_Value": "0"
+              },
+              "FollowActionEnabled": {
+                "_Value": "false"
+              }
+            },
+            "Name": {
+              "_Value": ""
+            },
+            "Annotation": {
+              "_Value": ""
+            },
+            "Color": {
+              "_Value": "-1"
+            },
+            "Tempo": {
+              "_Value": "120"
+            },
+            "IsTempoEnabled": {
+              "_Value": "false"
+            },
+            "TimeSignatureId": {
+              "_Value": "201"
+            },
+            "IsTimeSignatureEnabled": {
+              "_Value": "false"
+            },
+            "LomId": {
+              "_Value": "0"
+            },
+            "ClipSlotsListWrapper": {
+              "_LomId": "0"
+            },
+            "_Id": "3"
+          },
+          {
+            "FollowAction": {
+              "FollowTime": {
+                "_Value": "4"
+              },
+              "IsLinked": {
+                "_Value": "true"
+              },
+              "LoopIterations": {
+                "_Value": "1"
+              },
+              "FollowActionA": {
+                "_Value": "4"
+              },
+              "FollowActionB": {
+                "_Value": "0"
+              },
+              "FollowChanceA": {
+                "_Value": "100"
+              },
+              "FollowChanceB": {
+                "_Value": "0"
+              },
+              "JumpIndexA": {
+                "_Value": "0"
+              },
+              "JumpIndexB": {
+                "_Value": "0"
+              },
+              "FollowActionEnabled": {
+                "_Value": "false"
+              }
+            },
+            "Name": {
+              "_Value": ""
+            },
+            "Annotation": {
+              "_Value": ""
+            },
+            "Color": {
+              "_Value": "-1"
+            },
+            "Tempo": {
+              "_Value": "120"
+            },
+            "IsTempoEnabled": {
+              "_Value": "false"
+            },
+            "TimeSignatureId": {
+              "_Value": "201"
+            },
+            "IsTimeSignatureEnabled": {
+              "_Value": "false"
+            },
+            "LomId": {
+              "_Value": "0"
+            },
+            "ClipSlotsListWrapper": {
+              "_LomId": "0"
+            },
+            "_Id": "4"
+          },
+          {
+            "FollowAction": {
+              "FollowTime": {
+                "_Value": "4"
+              },
+              "IsLinked": {
+                "_Value": "true"
+              },
+              "LoopIterations": {
+                "_Value": "1"
+              },
+              "FollowActionA": {
+                "_Value": "4"
+              },
+              "FollowActionB": {
+                "_Value": "0"
+              },
+              "FollowChanceA": {
+                "_Value": "100"
+              },
+              "FollowChanceB": {
+                "_Value": "0"
+              },
+              "JumpIndexA": {
+                "_Value": "0"
+              },
+              "JumpIndexB": {
+                "_Value": "0"
+              },
+              "FollowActionEnabled": {
+                "_Value": "false"
+              }
+            },
+            "Name": {
+              "_Value": ""
+            },
+            "Annotation": {
+              "_Value": ""
+            },
+            "Color": {
+              "_Value": "-1"
+            },
+            "Tempo": {
+              "_Value": "120"
+            },
+            "IsTempoEnabled": {
+              "_Value": "false"
+            },
+            "TimeSignatureId": {
+              "_Value": "201"
+            },
+            "IsTimeSignatureEnabled": {
+              "_Value": "false"
+            },
+            "LomId": {
+              "_Value": "0"
+            },
+            "ClipSlotsListWrapper": {
+              "_LomId": "0"
+            },
+            "_Id": "5"
+          },
+          {
+            "FollowAction": {
+              "FollowTime": {
+                "_Value": "4"
+              },
+              "IsLinked": {
+                "_Value": "true"
+              },
+              "LoopIterations": {
+                "_Value": "1"
+              },
+              "FollowActionA": {
+                "_Value": "4"
+              },
+              "FollowActionB": {
+                "_Value": "0"
+              },
+              "FollowChanceA": {
+                "_Value": "100"
+              },
+              "FollowChanceB": {
+                "_Value": "0"
+              },
+              "JumpIndexA": {
+                "_Value": "0"
+              },
+              "JumpIndexB": {
+                "_Value": "0"
+              },
+              "FollowActionEnabled": {
+                "_Value": "false"
+              }
+            },
+            "Name": {
+              "_Value": ""
+            },
+            "Annotation": {
+              "_Value": ""
+            },
+            "Color": {
+              "_Value": "-1"
+            },
+            "Tempo": {
+              "_Value": "120"
+            },
+            "IsTempoEnabled": {
+              "_Value": "false"
+            },
+            "TimeSignatureId": {
+              "_Value": "201"
+            },
+            "IsTimeSignatureEnabled": {
+              "_Value": "false"
+            },
+            "LomId": {
+              "_Value": "0"
+            },
+            "ClipSlotsListWrapper": {
+              "_LomId": "0"
+            },
+            "_Id": "6"
+          },
+          {
+            "FollowAction": {
+              "FollowTime": {
+                "_Value": "4"
+              },
+              "IsLinked": {
+                "_Value": "true"
+              },
+              "LoopIterations": {
+                "_Value": "1"
+              },
+              "FollowActionA": {
+                "_Value": "4"
+              },
+              "FollowActionB": {
+                "_Value": "0"
+              },
+              "FollowChanceA": {
+                "_Value": "100"
+              },
+              "FollowChanceB": {
+                "_Value": "0"
+              },
+              "JumpIndexA": {
+                "_Value": "0"
+              },
+              "JumpIndexB": {
+                "_Value": "0"
+              },
+              "FollowActionEnabled": {
+                "_Value": "false"
+              }
+            },
+            "Name": {
+              "_Value": ""
+            },
+            "Annotation": {
+              "_Value": ""
+            },
+            "Color": {
+              "_Value": "-1"
+            },
+            "Tempo": {
+              "_Value": "120"
+            },
+            "IsTempoEnabled": {
+              "_Value": "false"
+            },
+            "TimeSignatureId": {
+              "_Value": "201"
+            },
+            "IsTimeSignatureEnabled": {
+              "_Value": "false"
+            },
+            "LomId": {
+              "_Value": "0"
+            },
+            "ClipSlotsListWrapper": {
+              "_LomId": "0"
+            },
+            "_Id": "7"
+          }
+        ]
+      },
+      "Transport": {
+        "PhaseNudgeTempo": {
+          "_Value": "10"
+        },
+        "LoopOn": {
+          "_Value": "false"
+        },
+        "LoopStart": {
+          "_Value": "8"
+        },
+        "LoopLength": {
+          "_Value": "16"
+        },
+        "LoopIsSongStart": {
+          "_Value": "false"
+        },
+        "CurrentTime": {
+          "_Value": "176"
+        },
+        "PunchIn": {
+          "_Value": "false"
+        },
+        "PunchOut": {
+          "_Value": "false"
+        },
+        "MetronomeTickDuration": {
+          "_Value": "0"
+        },
+        "DrawMode": {
+          "_Value": "false"
+        }
+      },
+      "SessionScrollPos": {
+        "_X": "0",
+        "_Y": "0"
+      },
+      "SignalModulations": "",
+      "GlobalQuantisation": {
+        "_Value": "4"
+      },
+      "AutoQuantisation": {
+        "_Value": "0"
+      },
+      "Grid": {
+        "FixedNumerator": {
+          "_Value": "1"
+        },
+        "FixedDenominator": {
+          "_Value": "16"
+        },
+        "GridIntervalPixel": {
+          "_Value": "20"
+        },
+        "Ntoles": {
+          "_Value": "2"
+        },
+        "SnapToGrid": {
+          "_Value": "true"
+        },
+        "Fixed": {
+          "_Value": "false"
+        }
+      },
+      "ScaleInformation": {
+        "Root": {
+          "_Value": "0"
+        },
+        "Name": {
+          "_Value": "0"
+        }
+      },
+      "InKey": {
+        "_Value": "true"
+      },
+      "SmpteFormat": {
+        "_Value": "0"
+      },
+      "TimeSelection": {
+        "AnchorTime": {
+          "_Value": "176"
+        },
+        "OtherTime": {
+          "_Value": "176"
+        }
+      },
+      "SequencerNavigator": {
+        "BeatTimeHelper": {
+          "CurrentZoom": {
+            "_Value": "0.254945054945054927"
+          }
+        },
+        "ScrollerPos": {
+          "_X": "0",
+          "_Y": "0"
+        },
+        "ClientSize": {
+          "_X": "1232",
+          "_Y": "508"
+        }
+      },
+      "IsContentSplitterOpen": {
+        "_Value": "true"
+      },
+      "IsExpressionSplitterOpen": {
+        "_Value": "true"
+      },
+      "ExpressionLanes": {
+        "MidiEditorLaneModel": [
+          {
+            "Type": {
+              "_Value": "5"
+            },
+            "Size": {
+              "_Value": "41"
+            },
+            "IsMinimized": {
+              "_Value": "true"
+            },
+            "_Id": "0"
+          },
+          {
+            "Type": {
+              "_Value": "0"
+            },
+            "Size": {
+              "_Value": "41"
+            },
+            "IsMinimized": {
+              "_Value": "false"
+            },
+            "_Id": "1"
+          },
+          {
+            "Type": {
+              "_Value": "1"
+            },
+            "Size": {
+              "_Value": "41"
+            },
+            "IsMinimized": {
+              "_Value": "false"
+            },
+            "_Id": "2"
+          },
+          {
+            "Type": {
+              "_Value": "2"
+            },
+            "Size": {
+              "_Value": "41"
+            },
+            "IsMinimized": {
+              "_Value": "true"
+            },
+            "_Id": "3"
+          },
+          {
+            "Type": {
+              "_Value": "3"
+            },
+            "Size": {
+              "_Value": "41"
+            },
+            "IsMinimized": {
+              "_Value": "true"
+            },
+            "_Id": "4"
+          }
+        ]
+      },
+      "ContentLanes": {
+        "MidiEditorLaneModel": [
+          {
+            "Type": {
+              "_Value": "2"
+            },
+            "Size": {
+              "_Value": "41"
+            },
+            "IsMinimized": {
+              "_Value": "false"
+            },
+            "_Id": "0"
+          },
+          {
+            "Type": {
+              "_Value": "3"
+            },
+            "Size": {
+              "_Value": "25"
+            },
+            "IsMinimized": {
+              "_Value": "true"
+            },
+            "_Id": "2"
+          },
+          {
+            "Type": {
+              "_Value": "4"
+            },
+            "Size": {
+              "_Value": "25"
+            },
+            "IsMinimized": {
+              "_Value": "true"
+            },
+            "_Id": "1"
+          }
+        ]
+      },
+      "ViewStateFxSlotCount": {
+        "_Value": "4"
+      },
+      "ViewStateSessionMixerVolumeSectionHeight": {
+        "_Value": "120"
+      },
+      "ViewStateArrangerMixerVolumeSectionHeight": {
+        "_Value": "120"
+      },
+      "ShouldSceneTempoAndTimeSignatureBeVisible": {
+        "_Value": "false"
+      },
+      "WaveformVerticalZoomFactor": {
+        "_Value": "1"
+      },
+      "IsWaveformVerticalZoomActive": {
+        "_Value": "true"
+      },
+      "Locators": {
+        "Locators": ""
+      },
+      "DetailClipKeyMidis": "",
+      "TracksListWrapper": {
+        "_LomId": "0"
+      },
+      "VisibleTracksListWrapper": {
+        "_LomId": "0"
+      },
+      "ReturnTracksListWrapper": {
+        "_LomId": "0"
+      },
+      "ScenesListWrapper": {
+        "_LomId": "0"
+      },
+      "CuePointsListWrapper": {
+        "_LomId": "0"
+      },
+      "SelectedDocumentViewInMainWindow": {
+        "_Value": "0"
+      },
+      "Annotation": {
+        "_Value": ""
+      },
+      "SoloOrPflSavedValue": {
+        "_Value": "true"
+      },
+      "SoloInPlace": {
+        "_Value": "true"
+      },
+      "CrossfadeCurve": {
+        "_Value": "2"
+      },
+      "LatencyCompensation": {
+        "_Value": "2"
+      },
+      "HighlightedTrackIndex": {
+        "_Value": "3"
+      },
+      "AutomationMode": {
+        "_Value": "false"
+      },
+      "SnapAutomationToGrid": {
+        "_Value": "true"
+      },
+      "ArrangementOverdub": {
+        "_Value": "false"
+      },
+      "ColorSequenceIndex": {
+        "_Value": "214510196"
+      },
+      "AutoColorPickerForPlayerAndGroupTracks": {
+        "NextColorIndex": {
+          "_Value": "2"
+        }
+      },
+      "AutoColorPickerForReturnAndMainTracks": {
+        "NextColorIndex": {
+          "_Value": "11"
+        }
+      },
+      "ViewData": {
+        "_Value": "{}"
+      },
+      "ResetNonautomatedMidiControllersOnClipStarts": {
+        "_Value": "true"
+      },
+      "MidiFoldIn": {
+        "_Value": "false"
+      },
+      "MidiFoldMode": {
+        "_Value": "-99"
+      },
+      "MultiClipFocusMode": {
+        "_Value": "false"
+      },
+      "MultiClipLoopBarHeight": {
+        "_Value": "0"
+      },
+      "MidiPrelisten": {
+        "_Value": "false"
+      },
+      "LinkedTrackGroups": "",
+      "NoteSpellingPreference": {
+        "_Value": "0"
+      },
+      "AccidentalSpellingPreference": {
+        "_Value": "3"
+      },
+      "PreferFlatRootNote": {
+        "_Value": "false"
+      },
+      "UseWarperLegacyHiQMode": {
+        "_Value": "false"
+      },
+      "VideoWindowRect": {
+        "_Top": "-2147483648",
+        "_Left": "-2147483648",
+        "_Bottom": "-2147483648",
+        "_Right": "-2147483648"
+      },
+      "ShowVideoWindow": {
+        "_Value": "true"
+      },
+      "TuningSystems": "",
+      "TrackHeaderWidth": {
+        "_Value": "93"
+      },
+      "ViewStateMainWindowClipDetailOpen": {
+        "_Value": "true"
+      },
+      "ViewStateMainWindowHiddenOtherDocViewTypeClipDetailOpen": {
+        "_Value": "false"
+      },
+      "ViewStateMainWindowHiddenOtherDocViewTypeDeviceDetailOpen": {
+        "_Value": "true"
+      },
+      "ViewStateMainWindowDeviceDetailOpen": {
+        "_Value": "false"
+      },
+      "ViewStateSecondWindowClipDetailOpen": {
+        "_Value": "false"
+      },
+      "ViewStateSecondWindowDeviceDetailOpen": {
+        "_Value": "true"
+      },
+      "ViewStates": {
+        "MixerInArrangement": {
+          "_Value": "0"
+        },
+        "ArrangerMixerIO": {
+          "_Value": "1"
+        },
+        "ArrangerMixerSends": {
+          "_Value": "1"
+        },
+        "ArrangerMixerReturns": {
+          "_Value": "1"
+        },
+        "ArrangerMixerVolume": {
+          "_Value": "1"
+        },
+        "ArrangerMixerTrackOptions": {
+          "_Value": "0"
+        },
+        "ArrangerMixerCrossFade": {
+          "_Value": "0"
+        },
+        "ArrangerMixerTrackPerformanceImpactMeter": {
+          "_Value": "0"
+        },
+        "MixerInSession": {
+          "_Value": "1"
+        },
+        "SessionIO": {
+          "_Value": "1"
+        },
+        "SessionSends": {
+          "_Value": "1"
+        },
+        "SessionReturns": {
+          "_Value": "1"
+        },
+        "SessionVolume": {
+          "_Value": "1"
+        },
+        "SessionTrackOptions": {
+          "_Value": "0"
+        },
+        "SessionCrossFade": {
+          "_Value": "0"
+        },
+        "SessionTrackPerformanceImpactMeter": {
+          "_Value": "0"
+        },
+        "SessionShowOverView": {
+          "_Value": "0"
+        },
+        "ArrangerIO": {
+          "_Value": "1"
+        },
+        "ArrangerReturns": {
+          "_Value": "1"
+        },
+        "ArrangerVolume": {
+          "_Value": "1"
+        },
+        "ArrangerTrackOptions": {
+          "_Value": "0"
+        },
+        "ArrangerShowOverView": {
+          "_Value": "1"
+        }
+      },
+      "NoteAlgorithms": {
+        "ArpeggiateAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "15",
+                "_Name": "Rate"
+              },
+              {
+                "_Id": "16",
+                "_Name": "Steps"
+              },
+              {
+                "_Id": "17",
+                "_Name": "Distance"
+              },
+              {
+                "_Id": "18",
+                "_Name": "Gate"
+              },
+              {
+                "_Id": "19",
+                "_Name": "Style"
+              }
+            ]
+          },
+          "Rate": {
+            "_Value": "10"
+          },
+          "Steps": {
+            "_Value": "2"
+          },
+          "Distance": {
+            "_Value": "12"
+          },
+          "Gate": {
+            "_Value": "1"
+          },
+          "Style": {
+            "_Value": "0"
+          },
+          "_Id": "0"
+        },
+        "SpanAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "9",
+                "_Name": "Mode"
+              },
+              {
+                "_Id": "10",
+                "_Name": "LengthVariation"
+              },
+              {
+                "_Id": "11",
+                "_Name": "LengthOffset"
+              }
+            ]
+          },
+          "Mode": {
+            "_Value": "1"
+          },
+          "ChordThreshold": {
+            "_Value": "10"
+          },
+          "LengthVariation": {
+            "_Value": "0"
+          },
+          "LengthOffset": {
+            "_Value": "0"
+          },
+          "_Id": "1"
+        },
+        "ConnectAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "12",
+                "_Name": "Tie"
+              },
+              {
+                "_Id": "13",
+                "_Name": "Density"
+              },
+              {
+                "_Id": "14",
+                "_Name": "Spread"
+              },
+              {
+                "_Id": "15",
+                "_Name": "Rate"
+              }
+            ]
+          },
+          "Tie": {
+            "_Value": "0"
+          },
+          "Density": {
+            "_Value": "1"
+          },
+          "Spread": {
+            "_Value": "0"
+          },
+          "Rate": {
+            "_Value": "0"
+          },
+          "_Id": "2"
+        },
+        "OrnamentAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "27",
+                "_Name": "FlamEnabled"
+              },
+              {
+                "_Id": "28",
+                "_Name": "FlamPosition"
+              },
+              {
+                "_Id": "29",
+                "_Name": "FlamVelocity"
+              },
+              {
+                "_Id": "30",
+                "_Name": "GraceNotesEnabled"
+              },
+              {
+                "_Id": "31",
+                "_Name": "GraceNotesChance"
+              },
+              {
+                "_Id": "32",
+                "_Name": "GraceNotesVelocity"
+              },
+              {
+                "_Id": "33",
+                "_Name": "GraceNotesPosition"
+              },
+              {
+                "_Id": "34",
+                "_Name": "GraceNotesAmount"
+              },
+              {
+                "_Id": "35",
+                "_Name": "GraceNotesPitch"
+              }
+            ]
+          },
+          "FlamEnabled": {
+            "_Value": "true"
+          },
+          "FlamPosition": {
+            "_Value": "-0.200000003"
+          },
+          "FlamVelocity": {
+            "_Value": "0.5"
+          },
+          "GraceNotesEnabled": {
+            "_Value": "false"
+          },
+          "GraceNotesChance": {
+            "_Value": "1"
+          },
+          "GraceNotesVelocity": {
+            "_Value": "0.5"
+          },
+          "GraceNotesPosition": {
+            "_Value": "-0.200000003"
+          },
+          "GraceNotesAmount": {
+            "_Value": "3"
+          },
+          "GraceNotesPitch": {
+            "_Value": "1"
+          },
+          "_Id": "3"
+        },
+        "RecombineAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "15",
+                "_Name": "Dimension"
+              },
+              {
+                "_Id": "16",
+                "_Name": "Shuffle"
+              },
+              {
+                "_Id": "17",
+                "_Name": "Mirror"
+              },
+              {
+                "_Id": "18",
+                "_Name": "RotateAmount"
+              },
+              {
+                "_Id": "19",
+                "_Name": "RotateOnGrid"
+              }
+            ]
+          },
+          "PermutedDimension": {
+            "_Value": "0"
+          },
+          "Shuffle": {
+            "_Value": "false"
+          },
+          "Mirror": {
+            "_Value": "false"
+          },
+          "RotateAmount": {
+            "_Value": "0"
+          },
+          "RotateOnGrid": {
+            "_Value": "false"
+          },
+          "_Id": "4"
+        },
+        "QuantizeAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "15",
+                "_Name": "TripletReference"
+              },
+              {
+                "_Id": "16",
+                "_Name": "QuantizeReference"
+              },
+              {
+                "_Id": "17",
+                "_Name": "Amount"
+              },
+              {
+                "_Id": "18",
+                "_Name": "QuantizeNoteStarts"
+              },
+              {
+                "_Id": "19",
+                "_Name": "QuantizeNoteEnds"
+              }
+            ]
+          },
+          "Reference": {
+            "_Value": "0"
+          },
+          "TripletReference": {
+            "_Value": "false"
+          },
+          "QuantizeNoteStarts": {
+            "_Value": "true"
+          },
+          "QuantizeNoteEnds": {
+            "_Value": "false"
+          },
+          "Amount": {
+            "_Value": "100"
+          },
+          "_Id": "5"
+        },
+        "StrumAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "12",
+                "_Name": "Threshold"
+              },
+              {
+                "_Id": "13",
+                "_Name": "Low"
+              },
+              {
+                "_Id": "14",
+                "_Name": "High"
+              },
+              {
+                "_Id": "15",
+                "_Name": "Tension"
+              }
+            ]
+          },
+          "ChordThreshold": {
+            "_Value": "0"
+          },
+          "StrumLow": {
+            "_Value": "0"
+          },
+          "StrumHigh": {
+            "_Value": "0"
+          },
+          "TensionAmount": {
+            "_Value": "0"
+          },
+          "_Id": "6"
+        },
+        "TimeWarpAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "63",
+                "_Name": "StretchNoteEnd"
+              },
+              {
+                "_Id": "64",
+                "_Name": "PreserveTimeRange"
+              },
+              {
+                "_Id": "65",
+                "_Name": "Quantize"
+              },
+              {
+                "_Id": "66",
+                "_Name": "Value1"
+              },
+              {
+                "_Id": "67",
+                "_Name": "Time1"
+              },
+              {
+                "_Id": "68",
+                "_Name": "IsActive1"
+              },
+              {
+                "_Id": "69",
+                "_Name": "Value2"
+              },
+              {
+                "_Id": "70",
+                "_Name": "Time2"
+              },
+              {
+                "_Id": "71",
+                "_Name": "IsActive2"
+              },
+              {
+                "_Id": "72",
+                "_Name": "Value3"
+              },
+              {
+                "_Id": "73",
+                "_Name": "Time3"
+              },
+              {
+                "_Id": "74",
+                "_Name": "IsActive3"
+              }
+            ]
+          },
+          "Breakpoints": {
+            "Breakpoint": [
+              {
+                "Value": {
+                  "_Value": "0.5"
+                },
+                "Time": {
+                  "_Value": "0"
+                },
+                "Control1X": {
+                  "_Value": "0.5"
+                },
+                "Control1Y": {
+                  "_Value": "0.5"
+                },
+                "Control2X": {
+                  "_Value": "0.5"
+                },
+                "Control2Y": {
+                  "_Value": "0.5"
+                },
+                "IsActive": {
+                  "_Value": "true"
+                },
+                "_Id": "0"
+              },
+              {
+                "Value": {
+                  "_Value": "0.5"
+                },
+                "Time": {
+                  "_Value": "0.5"
+                },
+                "Control1X": {
+                  "_Value": "0.5"
+                },
+                "Control1Y": {
+                  "_Value": "0.5"
+                },
+                "Control2X": {
+                  "_Value": "0.5"
+                },
+                "Control2Y": {
+                  "_Value": "0.5"
+                },
+                "IsActive": {
+                  "_Value": "false"
+                },
+                "_Id": "1"
+              },
+              {
+                "Value": {
+                  "_Value": "0.5"
+                },
+                "Time": {
+                  "_Value": "1"
+                },
+                "Control1X": {
+                  "_Value": "0.5"
+                },
+                "Control1Y": {
+                  "_Value": "0.5"
+                },
+                "Control2X": {
+                  "_Value": "0.5"
+                },
+                "Control2Y": {
+                  "_Value": "0.5"
+                },
+                "IsActive": {
+                  "_Value": "true"
+                },
+                "_Id": "2"
+              }
+            ]
+          },
+          "StretchNoteEnd": {
+            "_Value": "true"
+          },
+          "PreserveTimeRange": {
+            "_Value": "true"
+          },
+          "Quantize": {
+            "_Value": "false"
+          },
+          "_Id": "7"
+        },
+        "RhythmAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "42",
+                "_Name": "Density"
+              },
+              {
+                "_Id": "43",
+                "_Name": "Repetitions"
+              },
+              {
+                "_Id": "44",
+                "_Name": "Pattern"
+              },
+              {
+                "_Id": "45",
+                "_Name": "Steps"
+              },
+              {
+                "_Id": "46",
+                "_Name": "Pitch"
+              },
+              {
+                "_Id": "47",
+                "_Name": "Velocity"
+              },
+              {
+                "_Id": "48",
+                "_Name": "Accent"
+              },
+              {
+                "_Id": "49",
+                "_Name": "Period"
+              },
+              {
+                "_Id": "50",
+                "_Name": "Offset"
+              },
+              {
+                "_Id": "51",
+                "_Name": "Shift"
+              },
+              {
+                "_Id": "52",
+                "_Name": "StepDuration"
+              },
+              {
+                "_Id": "53",
+                "_Name": "Split"
+              },
+              {
+                "_Id": "54",
+                "_Name": "VelocityOffsetIncrement"
+              },
+              {
+                "_Id": "55",
+                "_Name": "VelocityOffsetDecrement"
+              }
+            ]
+          },
+          "Density": {
+            "_Value": "4"
+          },
+          "Repetitions": {
+            "_Value": "1"
+          },
+          "Pattern": {
+            "_Value": "14"
+          },
+          "PatternLength": {
+            "_Value": "8"
+          },
+          "Pitch": {
+            "_Value": "36"
+          },
+          "Velocity": {
+            "_Value": "100"
+          },
+          "Accent": {
+            "_Value": "127"
+          },
+          "Period": {
+            "_Value": "4"
+          },
+          "Offset": {
+            "_Value": "0"
+          },
+          "Shift": {
+            "_Value": "0"
+          },
+          "StepDuration": {
+            "_Value": "7"
+          },
+          "Split": {
+            "_Value": "0"
+          },
+          "_Id": "8"
+        },
+        "StacksAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "36",
+                "_Name": "AppendChord"
+              },
+              {
+                "_Id": "37",
+                "_Name": "DeleteSelectedChord"
+              },
+              {
+                "_Id": "38",
+                "_Name": "RootPitch1"
+              },
+              {
+                "_Id": "39",
+                "_Name": "Inversion1"
+              },
+              {
+                "_Id": "40",
+                "_Name": "Rule1"
+              },
+              {
+                "_Id": "41",
+                "_Name": "Duration1"
+              },
+              {
+                "_Id": "42",
+                "_Name": "Offset1"
+              }
+            ]
+          },
+          "Sequence": {
+            "Chord": {
+              "RootDegree": {
+                "_Value": "0"
+              },
+              "Octave": {
+                "_Value": "3"
+              },
+              "RootPitch": {
+                "_Value": "60"
+              },
+              "Inversion": {
+                "_Value": "0"
+              },
+              "RuleNumber": {
+                "_Value": "0"
+              },
+              "Duration": {
+                "_Value": "1"
+              },
+              "Offset": {
+                "_Value": "0"
+              },
+              "_Id": "8"
+            }
+          },
+          "_Id": "9"
+        },
+        "ShapeAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "21",
+                "_Name": "ShapePresets"
+              },
+              {
+                "_Id": "22",
+                "_Name": "Rate"
+              },
+              {
+                "_Id": "23",
+                "_Name": "Tie"
+              },
+              {
+                "_Id": "24",
+                "_Name": "Density"
+              },
+              {
+                "_Id": "25",
+                "_Name": "MinPitch"
+              },
+              {
+                "_Id": "26",
+                "_Name": "MaxPitch"
+              },
+              {
+                "_Id": "27",
+                "_Name": "PitchVariation"
+              }
+            ]
+          },
+          "ShapeLevels": {
+            "RemoteableFloat": [
+              {
+                "_Id": "0",
+                "_Value": "0"
+              },
+              {
+                "_Id": "1",
+                "_Value": "0.05000000075"
+              },
+              {
+                "_Id": "2",
+                "_Value": "0.1000000015"
+              },
+              {
+                "_Id": "3",
+                "_Value": "0.150000006"
+              },
+              {
+                "_Id": "4",
+                "_Value": "0.200000003"
+              },
+              {
+                "_Id": "5",
+                "_Value": "0.25"
+              },
+              {
+                "_Id": "6",
+                "_Value": "0.3000000119"
+              },
+              {
+                "_Id": "7",
+                "_Value": "0.349999994"
+              },
+              {
+                "_Id": "8",
+                "_Value": "0.400000006"
+              },
+              {
+                "_Id": "9",
+                "_Value": "0.4499999881"
+              },
+              {
+                "_Id": "10",
+                "_Value": "0.5"
+              },
+              {
+                "_Id": "11",
+                "_Value": "0.5500000119"
+              },
+              {
+                "_Id": "12",
+                "_Value": "0.6000000238"
+              },
+              {
+                "_Id": "13",
+                "_Value": "0.6499999762"
+              },
+              {
+                "_Id": "14",
+                "_Value": "0.6999999881"
+              },
+              {
+                "_Id": "15",
+                "_Value": "0.75"
+              },
+              {
+                "_Id": "16",
+                "_Value": "0.8000000119"
+              },
+              {
+                "_Id": "17",
+                "_Value": "0.8500000238"
+              },
+              {
+                "_Id": "18",
+                "_Value": "0.8999999762"
+              },
+              {
+                "_Id": "19",
+                "_Value": "0.9499999881"
+              },
+              {
+                "_Id": "20",
+                "_Value": "1"
+              }
+            ]
+          },
+          "ShapePresets": {
+            "_Value": "2"
+          },
+          "Rate": {
+            "_Value": "0"
+          },
+          "Tie": {
+            "_Value": "0"
+          },
+          "Density": {
+            "_Value": "1"
+          },
+          "MinPitch": {
+            "_Value": "60"
+          },
+          "MaxPitch": {
+            "_Value": "84"
+          },
+          "PitchVariation": {
+            "_Value": "0"
+          },
+          "_Id": "10"
+        },
+        "SeedAlgorithm": {
+          "NamedKeyMidiRemoteables": {
+            "NamedRemoteableKeyMidi": [
+              {
+                "_Id": "24",
+                "_Name": "Density"
+              },
+              {
+                "_Id": "25",
+                "_Name": "MinPitch"
+              },
+              {
+                "_Id": "26",
+                "_Name": "MaxPitch"
+              },
+              {
+                "_Id": "27",
+                "_Name": "MinDuration"
+              },
+              {
+                "_Id": "28",
+                "_Name": "MaxDuration"
+              },
+              {
+                "_Id": "29",
+                "_Name": "MinVelocity"
+              },
+              {
+                "_Id": "30",
+                "_Name": "MaxVelocity"
+              },
+              {
+                "_Id": "31",
+                "_Name": "VerticalLimit"
+              }
+            ]
+          },
+          "NotesDensity": {
+            "_Value": "0.5"
+          },
+          "MinPitch": {
+            "_Value": "60"
+          },
+          "MaxPitch": {
+            "_Value": "84"
+          },
+          "MinDuration": {
+            "_Value": "-6"
+          },
+          "MaxDuration": {
+            "_Value": "-3"
+          },
+          "MinVelocity": {
+            "_Value": "30"
+          },
+          "MaxVelocity": {
+            "_Value": "100"
+          },
+          "VerticalLimit": {
+            "_Value": "4"
+          },
+          "_Id": "11"
+        },
+        "PitchFilterAlgorithm": {
+          "NamedKeyMidiRemoteables": "",
+          "PitchClasses": {
+            "RemoteableBool": [
+              {
+                "_Id": "96",
+                "_Value": "false"
+              },
+              {
+                "_Id": "97",
+                "_Value": "false"
+              },
+              {
+                "_Id": "98",
+                "_Value": "false"
+              },
+              {
+                "_Id": "99",
+                "_Value": "false"
+              },
+              {
+                "_Id": "100",
+                "_Value": "false"
+              },
+              {
+                "_Id": "101",
+                "_Value": "false"
+              },
+              {
+                "_Id": "102",
+                "_Value": "false"
+              },
+              {
+                "_Id": "103",
+                "_Value": "false"
+              },
+              {
+                "_Id": "104",
+                "_Value": "false"
+              },
+              {
+                "_Id": "105",
+                "_Value": "false"
+              },
+              {
+                "_Id": "106",
+                "_Value": "false"
+              },
+              {
+                "_Id": "107",
+                "_Value": "false"
+              }
+            ]
+          },
+          "DrumPad": {
+            "_Value": "128"
+          },
+          "Invert": {
+            "_Value": "false"
+          },
+          "_Id": "12"
+        },
+        "TimeFilterAlgorithm": {
+          "NamedKeyMidiRemoteables": "",
+          "Start": {
+            "_Value": "0"
+          },
+          "Length": {
+            "_Value": "0.25"
+          },
+          "Repeat": {
+            "_Value": "0"
+          },
+          "Invert": {
+            "_Value": "false"
+          },
+          "_Id": "13"
+        }
+      }
+    },
+    "_MajorVersion": "5",
+    "_MinorVersion": "12.0_12120",
+    "_SchemaChangeCount": "2",
+    "_Creator": "Ableton Live 12.1.5",
+    "_Revision": "18e155016678da1939bdc3938f981adf84ebc96d"
+  }
+}
